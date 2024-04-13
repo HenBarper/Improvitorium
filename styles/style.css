@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6, p, hr {
+  color: white;
+}
+
+li {
+  color: gray;
+}
+
+.thick-hr {
+  height: 4px;
+  background-color: aqua;
+  border: none;
+}
