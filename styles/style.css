@@ -1,21 +1,120 @@
-header, footer {
-  background-color: darkblue;
+:root {
+  --main-bg: #0a172a;
+  --secondary-bg: #213843;
+  --tertiary-bg: #153349;
+  /* --light-bg: #c7eec0; */
+  --primary-text: #ede6ce;
+  --secondary-text: #36342e;
+  --accent-col: #cb6639;
+  --link-standard: #6589bd;
+  --link-visited: #9165bd;
+  --link-hover: #b5cbea;
+  --link-hover-visited: #ccadec;
 }
 
+/* ---------- HEADER & FOOTER ---------- */
+header, footer {
+  background-color: var(--secondary-bg, darkcyan);
+}
+header {
+  border-bottom: 4px solid var(--accent-col);
+}
+footer {
+  border-top: 4px solid var(--accent-col);
+}
+
+/* ---------- BODY ---------- */
 body {
-  background-color: black;
+  background-color: var(--main-bg, darkblue);
 }
 
 h1, h2, h3, h4, h5, h6, p, hr {
-  color: white;
+  color: var(--primary-text, white);
+}
+
+/* LINKS */
+a {
+  color: var(--link-standard, blue);
+}
+a:hover {
+  color: var(--link-hover, lightblue);
+}
+a:visited {
+  color: var(--link-visited, purple);
+}
+a:visited:hover {
+  color: var(--link-hover-visited, lightpink);
 }
 
 li {
   color: gray;
 }
 
+/* ---------- CUSTOM CLASSES ---------- */
+
 .thick-hr {
   height: 4px;
-  background-color: aqua;
+  background-color: var(--accent-col);
   border: none;
+}
+
+/* FORMATTING GAME BOXES */
+.games-list {
+  background-color: var(--tertiary-bg, darkolivegreen);
+  border: 2px solid var(--accent-col, orange);
+}
+.game-box {
+  background-color: var(--secondary-bg, darkcyan);
+}
+.game-description {
+  background-color: var(--main-bg, darkblue);
+}
+
+/* ---------- COLUMN SET ---------- */
+.two-column-list {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
+.three-column-list {
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+}
+
+.four-column-list {
+  columns: 4;
+  -webkit-columns: 4;
+  -moz-columns: 4;
+}
+
+.five-column-list {
+  columns: 5;
+  -webkit-columns: 5;
+  -moz-columns: 5;
+}
+
+.six-column-list {
+  columns: 6;
+  -webkit-columns: 6;
+  -moz-columns: 6;
+}
+
+.seven-column-list {
+  columns: 7;
+  -webkit-columns: 7;
+  -moz-columns: 7;
+}
+
+.eight-column-list {
+  columns: 8;
+  -webkit-columns: 8;
+  -moz-columns: 8;
+}
+
+.twelve-column-list {
+  columns: 12;
+  -webkit-columns: 12;
+  -moz-columns: 12;
 }
