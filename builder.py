@@ -26,7 +26,7 @@ for item in data:
   for tagPage, tag in zip(item[2].split(","), item[3].split(",")): 
     tags_html += f'<a href="{tagPage.strip()}">{tag.strip()}</a> - '
   fullText += f'<!-- ---------- {item[0].upper()} ---------- -->\n\
-<div class="game-box p-2" id="{item[0]}">\n\
+<div class="game-box p-2" id="{item[1]}">\n\
 \t<h3>{item[0]}</h3>\n\
 \t<hr>\n\
 \t<p>{item[4]}</p>\n\
