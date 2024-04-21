@@ -9,7 +9,7 @@ import csv
 
 data = []
 
-with open('data.csv', 'r') as file:
+with open('../data/data.csv', 'r') as file:
   reader = csv.reader(file)
   next(reader)
   for row in reader:
@@ -30,7 +30,7 @@ for item in data:
   linkText += f'\t\t\t\t<li>\n\t\t\t\t\t<h5><a href="#{item[1]}">{item[0]}</a></h5>\n\t\t\t\t</li>\n'
   tags_html = ''
   for tagPage, tag in zip(item[2].split(","), item[3].split(",")): 
-    tags_html += f'<a href="{tagPage.strip()}">{tag.strip()}</a> - '
+    tags_html += f'<a href="pages/{tagPage.strip()}">{tag.strip()}</a> - '
   fullText += f'\t<!-- ---------- {item[0].upper()} ---------- -->\n'
   fullText += f'\t<div class="game-box p-2" id="{item[1]}">\n'
   fullText += f'\t\t<h3>{item[0]}</h3>\n'
@@ -52,6 +52,6 @@ htmlEndText += f'\t</div>\n</footer>\n</html>'
 
 new_html_content = htmlText + '\n' + linkText + '\n\n' + fullText + '\n' + htmlEndText
 
-new_file = 'newest_file.html'
+new_file = '../newest_file.html'
 with open(new_file, 'w') as file:
     file.write(new_html_content)

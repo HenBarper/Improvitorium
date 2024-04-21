@@ -8,7 +8,7 @@ import csv
 
 data = []
 
-with open('data.csv', 'r') as file:
+with open('../data/data.csv', 'r') as file:
   reader = csv.reader(file)
   next(reader)
   for row in reader:
@@ -16,7 +16,7 @@ with open('data.csv', 'r') as file:
 
 linkText = ''
 fullText = ''
-new_file = 'new_file.html'
+new_file = '../new_file.html'
 
 for item in data:
   linkText += f'<li>\n\

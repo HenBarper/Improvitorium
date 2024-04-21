@@ -56,6 +56,9 @@ li {
 }
 
 /* ---------- CUSTOM CLASSES ---------- */
+.white {
+  color: white;
+}
 
 .bar {
   width: 80%;

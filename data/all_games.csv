@@ -1,4 +1,4 @@
-title,id,tagPages,tags,primary_page,sources,description,
+title,id,tagPages,tags,primary_page,text
 185,185,"performance.html,pun.html","Performance,Pun",performance.html#185,
 5-4-3-2-1,5-4-3-2-1,"long_forms.html,performance.html","Long Form,Performance",long_forms.html#5-4-3-2-1,
 60 Seconds of Silence,60SecondsOfSilence,"exercises.html,scene.html","Exercise,Scenework",exercises.html#60SecondsOfSilence,
@@ -21,7 +21,7 @@ Blues,blues,"group.html,musical.html,performance.html,song_formats.html","Group 
 Bubsy Berkeley,bubsyBerkeley,"energy.html,exercises.html,group.html,musical.html,performance.html","Energy,Exercise,Group Game,Musical,Performance",musical.html#bubsyBerkeley,
 Bunny Bunny,bunnyBunny,"child_friendly.html,energy.html,listening.html,party.html,warm_ups.html","Child Friendly,Energy,Listening,Party,Warm Up",warm_ups.html#bunnyBunny,
 Chain Murder,chainMurder,"gibberis.html,guessing.html,object_work.html,performance.html","Gibberish,Guessing,Object Work,Performance","guessing.html#chainMurder",
-Change AKA New Decision,change,
+Change AKA New Decision,change,"child_friendly.html,performance.html,scene.html,Torture.html","Child Friendly,Performance,Scenework,Torture",performance.html#change,"Two players start a scene"
 Character Panel,characterPanel,
 Character Matching,characterMatching,
 Character Samurai,characterSamurai,

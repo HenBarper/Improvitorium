@@ -9,7 +9,7 @@ import csv
 
 data = []
 
-with open('data.csv', 'r') as file:
+with open('../data/data.csv', 'r') as file:
   reader = csv.reader(file)
   next(reader)
   for row in reader:
@@ -43,7 +43,7 @@ for item in data:
 linkText += f'</ul>\n</div>\n\n<hr class="thick-hr">\n\n'
 fullText += f'</div>'
 
-existing_file = 'existing_file.html'
+existing_file = '../existing_file.html'
 with open(existing_file, 'r') as file:
     existing_content = file.read()
 
@@ -54,7 +54,7 @@ insertion_index = existing_content.find('</body>')
 new_html_content = existing_content[:insertion_index] + '\n' + linkText + '\n\n' + fullText + '\n' + existing_content[insertion_index:]
 
 # Write updated HTML content to a new file
-new_file = 'new_file.html'
+new_file = '../new_file.html'
 with open(new_file, 'w') as file:
     file.write(new_html_content)
 
