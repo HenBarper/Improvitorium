@@ -23,6 +23,7 @@ def build_child_friendly_page():
   htmlText += f'\t\t<h5 class="mx-5 py-2"><a href="categories.html">Games Exerciess and Formats</a>\n\t</div>\n</header>\n<body>'
 
   linkText = f'\t<h1 class="text-center my-3">Child Friendly</h1>\n'
+  linkText += f'\t<p class="text-center my-3">These games and exercises are easy to learn and fun to play, great for groups of little ones!</p>\n'
   linkText += f'\t\t<div class="m-5 games-list">\n'
   linkText += f'\t\t\t<ul class="py-3">\n'
   fullText = f'<div class="m-5">\n'
@@ -37,15 +38,15 @@ def build_child_friendly_page():
       fullText += f'\t<div class="game-box p-2" id="{item[1]}">\n'
       fullText += f'\t\t<h3>{item[0]}</h3>\n'
       fullText += f'\t\t<hr>\n'
-      fullText += f'\t\t<p>Description: '
+      # fullText += f'\t\t<p>'
       for character in item[5]:
         if character == '\\':
-          fullText += '</p>\n<p>'
+          fullText += '<br>' #'\n'
         else:
           fullText += character
       # fullText += f'\t\t<p>Description: {item[5]}</p>\n'
-      fullText += f'</p>\n'
-      fullText += f'\t\t<h6>tags</h6>\n'
+      # fullText += f'</p>\n'
+      fullText += f'\t\t<h6>Tags</h6>\n'
       fullText += f'\t\t{tags_html}\n'
       fullText += f'\t\t<hr>\n'
       fullText += f'\t\t<h6><a href="#top">Back to Top</a></h6>\n'

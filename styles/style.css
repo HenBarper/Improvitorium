@@ -1,7 +1,7 @@
 :root {
   --main-bg: #0a172a;
-  --secondary-bg: #213843;
-  --tertiary-bg: #153349;
+  --secondary-bg: #182830; /*213843;*/
+  --tertiary-bg: #122a3d; /*153349;*/
   /* --light-bg: #c7eec0; */
   --primary-text: #ede6ce;
   --secondary-text: #f0c1ad;
@@ -17,10 +17,10 @@ header, footer {
   background-color: var(--secondary-bg, darkcyan);
 }
 header {
-  border-bottom: 4px solid var(--accent-col);
+  border-bottom: 3px solid var(--accent-col);
 }
 footer {
-  border-top: 4px solid var(--accent-col);
+  border-top: 3px solid var(--accent-col);
   /* position: fixed;
   bottom: 0;
   width: 100%;
@@ -35,6 +35,11 @@ body {
 
 h1, h2, h3, h4, h5, h6, p, hr {
   color: var(--primary-text, white);
+}
+
+hr {
+  color: var(--accent-col);
+  opacity: 1;
 }
 
 /* LINKS */
@@ -52,7 +57,8 @@ a:visited:hover {
 }
 
 li {
-  color: gray;
+  /* color: gray; */
+  color: var(--primary-text, white);
 }
 
 /* ---------- CUSTOM CLASSES ---------- */
@@ -68,19 +74,21 @@ li {
   height: 4px;
   background-color: var(--accent-col);
   border: none;
+  opacity: 0.65;
 }
 
 /* FORMATTING GAME BOXES */
 .games-list {
   background-color: var(--tertiary-bg, darkolivegreen);
-  border: 2px solid var(--accent-col, orange);
+  border: 1px solid var(--accent-col, orange);
 }
 .game-box {
   background-color: var(--secondary-bg, darkcyan);
+  border: 1px solid var(--accent-col, orange);
 }
-.game-description {
+/* .game-description {
   background-color: var(--main-bg, darkblue);
-}
+} */
 
 /* ---------- COLUMN SET ---------- */
 .two-column-list {

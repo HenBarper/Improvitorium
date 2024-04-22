@@ -38,15 +38,15 @@ def build_audience_participation_page():
       fullText += f'\t<div class="game-box p-2" id="{item[1]}">\n'
       fullText += f'\t\t<h3>{item[0]}</h3>\n'
       fullText += f'\t\t<hr>\n'
-      fullText += f'\t\t<p>Description: '
+      # fullText += f'\t\t<p>'
       for character in item[5]:
         if character == '\\':
-          fullText += '</p>\n<p>'
+          fullText += '<br>' #'\n'
         else:
           fullText += character
       # fullText += f'\t\t<p>Description: {item[5]}</p>\n'
-      fullText += f'</p>\n'
-      fullText += f'\t\t<h6>tags</h6>\n'
+      # fullText += f'</p>\n'
+      fullText += f'\t\t<h6>Tags</h6>\n'
       fullText += f'\t\t{tags_html}\n'
       fullText += f'\t\t<hr>\n'
       fullText += f'\t\t<h6><a href="#top">Back to Top</a></h6>\n'
