@@ -6,9 +6,10 @@ Balladeer,balladeer,"long_forms.html,musical.html,narrative.html,performance.htm
 Band,band,"exercises.html,group.html,musical.html,party.html,performance.html","Exercise,Group Game,Musical,Party,Performance",musical.html#band,
 Blind Date,blindDate,
 Blow Them Away,blowThemAway,,,HTBTGIOE
+Blues,blues,"group.html,musical.html,performance.html,song_formats.html","Group Game,Musical,Performance,Song Format",musical.html#blues,description
+Bubsy Berkeley,bubsyBerkeley,"energy.html,exercises.html,group.html,musical.html,performance.html","Energy,Exercise,Group Game,Musical,Performance",musical.html#bubsyBerkeley,description
 Build a Machine,buildAMachine,
 Building an Environment,buildingAnEnvironment,
-Chameleon,chameleon,
 Character Samurai,characterSamurai,,,,
 Character Swap,characterSwap,,,,
 Charity Song,charitySong,,,,
@@ -180,7 +181,7 @@ Start General Get Specific,startGeneralGetSpecific,,,,
 Story Spine,storySpine,,,,
 Stuntman,stuntman,,,,
 Superhero Interview,superheroInterview,,,,
-Supervillain AKA Mastermind,supervillain,,,,
+Supervillain / Mastermind,supervillain,,,,
 T,,,,,
 Tabletop RPG,tabletopRPG,,,,
 Tagline Song,taglineSong,,,,
