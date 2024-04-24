@@ -56,7 +56,7 @@ def build_interview_page():
   linkText += f'\t\t\t</ul>\n\t\t</div>\n\n<hr class="thick-hr">'
   fullText += f'</div>'
 
-  htmlEndText = f'<p class="white">built</p></body>\n<footer>\n\t<div class="d-flex flex-wrap justify-content-around">\n'
+  htmlEndText = f'</body>\n<footer>\n\t<div class="d-flex flex-wrap justify-content-around">\n'
   htmlEndText += f'\t\t<h5 class="mx-5 py-2"><a href="../index.html">Home</a>\n\t\t<h5 class="mx-5 py-2"><a href="categories.html">Games Exerciess and Formats</a>\n'
   htmlEndText += f'\t</div>\n</footer>\n</html>'
 
