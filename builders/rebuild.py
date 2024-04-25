@@ -25,7 +25,7 @@ from builder_warm_ups import build_warm_ups_page
 build_audience_participation_page()
 build_character_page()
 build_child_friendly_page()
-build_energy_page
+build_energy_page()
 build_exercise_page()
 build_gibberish_page()
 build_group_page()
