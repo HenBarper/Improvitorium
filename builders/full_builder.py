@@ -30,8 +30,8 @@ def build_full_page(title, tag, html, page_description):
   fullText = f'<div class="m-5">\n'
 
   for item in data:
-    # print(item[0])
     if f'{tag}' in item[3]:
+      print(f'{item[0]}, {item[1]}, {item[3]}')
       linkText += f'\t\t\t\t<li>\n\t\t\t\t\t<h5><a href="#{item[1]}">{item[0]}</a></h5>\n\t\t\t\t</li>\n'
       tags_html = ''
       for tagPage, tag in zip(item[2].split(","), item[3].split(",")): 

@@ -1,0 +1,21 @@
+[
+  {
+    "title": "185",
+    "id": "185",
+    "tagPages": "performance.html,pun.html",
+    "tags": "Performance,Pun",
+    "primary_page": "performance.html#185",
+    "description": {
+      "line 1": "<p><strong>Description:</strong>",
+      "line 2": "<ul>",
+      "line 3": "<li>Players get a suggestion and one at a time step forward and deliver a joke or pun with the format below.</li>",
+      "line 4": "</ul>",
+      "line 5": "<hr>",
+      "line 6": "<p><strong>Example:</strong>",
+      "line 7": "<ul>",
+      "line 8": "<li>Suggestion: Banana<br>185 bananas walk into a bar.<br>The bartender says, we don't serve bananas here.<br>The 185 bananas say, what? are we too unappealing for you?</li><li>Alternate version:<br>185 bananas walk into a bar.<br>The bartender says, we don't serve bananas here.<br>The 185 bananas say, why not?<br>and the bartender says, you're too unappealing.</li>",
+      "line 9": "</ul>",
+      "line 10": "<hr>"
+    }
+  }
+]
