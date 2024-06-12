@@ -1,28 +1,28 @@
 from full_builder import build_full_page
 
-page_description = 'These games involve bringing memebers of the audience on stage to participate in an active way.'
-build_full_page('Audience Participation', 'Audience Participation', 'audience_participation.html', page_description)
+# page_description = 'These games involve bringing memebers of the audience on stage to participate in an active way.'
+# build_full_page('Audience Participation', 'Audience Participation', 'audience_participation.html', page_description)
 
-page_description = 'These games and exercises involve the exploration and/or discovery characters.'
-build_full_page('Character', 'Character', 'character.html', page_description)
+# page_description = 'These games and exercises involve the exploration and/or discovery characters.'
+# build_full_page('Character', 'Character', 'character.html', page_description)
 
-page_description = 'These games and exercises are easy to learn and fun to play, great for groups of little ones!'
-build_full_page('Child Friendly', 'Child Friendly', 'child_friendly.html', page_description)
+# page_description = 'These games and exercises are easy to learn and fun to play, great for groups of little ones!'
+# build_full_page('Child Friendly', 'Child Friendly', 'child_friendly.html', page_description)
 
-page_description = 'These games and exercises will get the enrgy up in a show or practice.'
-build_full_page('Energy', 'Energy', 'energy.html', page_description)
+# page_description = 'These games and exercises will get the enrgy up in a show or practice.'
+# build_full_page('Energy', 'Energy', 'energy.html', page_description)
 
-page_description = 'These exercises are meant to develop various improvisational skills.'
-build_full_page('Exercises', 'Exercise', 'exercise.html', page_description)
+# page_description = 'These exercises are meant to develop various improvisational skills.'
+# build_full_page('Exercises', 'Exercise', 'exercise.html', page_description)
 
-page_description = 'These games and exercises involve scenes where players must act and/or communicate without any real dialogue, only gibberish or sometimes numbers.'
-build_full_page('Gibberish', 'Gibberish', 'gibberish.html', page_description)
+# page_description = 'These games and exercises involve scenes where players must act and/or communicate without any real dialogue, only gibberish or sometimes numbers.'
+# build_full_page('Gibberish', 'Gibberish', 'gibberish.html', page_description)
 
-page_description = 'Many games involve three or more players, but this section is dedicated to the type of group games that are played in between beats of a Harold.'
-build_full_page('Group', 'Group Game', 'group.html', page_description)
+# page_description = 'Many games involve three or more players, but this section is dedicated to the type of group games that are played in between beats of a Harold.'
+# build_full_page('Group', 'Group Game', 'group.html', page_description)
 
-page_description = 'These usually involve one player, the guesser, leaving the room while the other players get suggestions for characters to play. The guesser then has to return and act out some kind of scene with the characters, eventually guessing who they are or what traits they were given based off of hints from the character players.'
-build_full_page('Guessing', 'Guessing', 'guessing.html', page_description)
+# page_description = 'These usually involve one player, the guesser, leaving the room while the other players get suggestions for characters to play. The guesser then has to return and act out some kind of scene with the characters, eventually guessing who they are or what traits they were given based off of hints from the character players.'
+# build_full_page('Guessing', 'Guessing', 'guessing.html', page_description)
 
 page_description = 'These games and exercises make players have to justify absurd choices or dialogue.'
 build_full_page('Justification', 'Justification', 'justification.html', page_description)

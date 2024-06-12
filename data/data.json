@@ -12,16 +12,67 @@
     "sources": ""
   },
   {
+    "title": "",
+    "id": "",
+    "tagPages": "",
+    "tags": "",
+    "primary_page": "",
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
+  },
+  {
     "title": "185",
     "id": "185",
     "tagPages": "performance.html,pun.html",
     "tags": "Performance,Pun",
     "primary_page": "performance.html#185",
-    "description": "<p><strong>Description:</strong><ul><li>Players get a suggestion and one at a time step forward and deliver a joke or pun with the format below.</li></ul><hr><p><strong>Example:</strong><ul><li>Suggestion: Banana<br>185 bananas walk into a bar.<br>The bartender says, we don't serve bananas here.<br>The 185 bananas say, what? are we too unappealing for you?</li><li>Alternate version:<br>185 bananas walk into a bar.<br>The bartender says, we don't serve bananas here.<br>The 185 bananas say, why not?<br>and the bartender says, you're too unappealing.</li></ul><hr>",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Players get a suggestion and one at a time step forward and deliver a joke or pun with the format below.</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<p>Suggestion: Banana</p>",
+        "2": "<ul>",
+        "4": "\t<li>185 bananas walk into a bar.</li>",
+        "5": "\t<li>The bartender says, we don't serve bananas here.</li>",
+        "6": "\t<li>The 185 bananas say, what? are we too unappealing for you?</li>",
+        "7": "</ul>",
+        "8": "<p>Alternate Version:</p>",
+        "9": "<ul>",
+        "10": "\t<li>185 bananas walk into a bar.</li>",
+        "11": "\t<li>The bartender says, we don't serve bananas here.</li>",
+        "12": "\t<li>The 185 bananas say, why not?</li>",
+        "13": "\t<li>The bartender says, you're too unappealing.</li>",
+        "14": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "60 Seconds of Silence",
@@ -29,23 +80,28 @@
     "tagPages": "exercises.html,scene.html",
     "tags": "Exercise,Scenework",
     "primary_page": "exercises.html#60SecondsOfSilence",
-    "description": "<p><strong>Description:</strong><ul><li>Two players take the stage.<br>A suggestion is given.<br>They strike a pose then hold it and wait.<br>After 60 seconds the teacher calls start and the scene begins.</li></ul><hr><p><strong>Purpose:</strong><ul><li>In the beginning you'll be thinking of many different ideas and dropping them, thinking about the other person, and shifting your posture slightly.</li><li>As you near the 60 second mark that panic will settle and you'll have nothing but a general idea of the dynamic between you and your partner.</li><li>By the time the scene starts you should be ready to listen intently to your scene partner.</li></ul><hr><p><strong>sources:</strong><ul><li>How to be the Greatest Improviser on Earth by Will Hines - p. 22</li></ul><hr>",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
-  },
-  {
-    "title": "A Real Reason",
-    "id": "aRealReason",
-    "tagPages": "exercises.html",
-    "tags": "Exercise",
-    "primary_page": "exercises.html#aRealReason",
-    "description": "<p><strong>Description:</strong><ul><li>Two players take the stage.</li><li>Player 1 makes an accusation against player 2.</li><li>Player 2 must then give a real, logical reason why they would have done that thing.</li><li>Player 2 must accept without argument that they did the thing of which they are accused.</li><li>This exercise is part of a series try <a href='exercises.html#supervillain'>Supervillain / Mastermind</a> then <a href='exercises.html#ownIt'>Own It</a> before this exercise.</li></ul><hr><p><strong>Example:</strong><ul><li>Player 1: Sir... We found these knives and excessive liquids in your luggage. Were you planning on taking these onto the plane?</li><li>Player 2 as supervillain: Yes! So I can take over the skies!</li><li>Player 2 owning it: Yes I plan on bullying passengers up there!</li><li>Player 2 giving a real reason: You know, I was just hoping you wouldn't check. I thought I could get away with it. I think TSA policies are kinda dumb. I'm not planning anything bad, I just don't want to follow your rules.</li></ul><p>The real reason response is rich, specific and truthful. It's the best way to respond to strange endowments.</p><hr><p><strong>sources:</strong><ul><li>How to be the Greatest Improviser on Earth by Will Hines - p. 58</li></ul><hr>",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Two players take the stage.</li>",
+        "3": "\t<li>A suggestion is given.</li>",
+        "4": "\t<li>They strike a pose then hold it and wait.</li>",
+        "5": "\t<li>After 60 seconds the teacher calls start and the scene begins.</li>",        
+        "6": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>In the beginning you'll be thinking of many different ideas and dropping them, thinking about the other person, and shifting your posture slightly.</li>",
+        "3": "\t<li>As you near the 60 second mark that panic will settle and you'll have nothing but a general idea of the dynamic between you and your partner.</li>",
+        "4": "\t<li>By the time the scene starts you should be ready to listen intently to your scene partner.</li>",
+        "5": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>How to be the Greatest Improviser on Earth by Will Hines - p. 22</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Ad Game",
@@ -53,23 +109,71 @@
     "tagPages": "exercises.html,group.html,listening.html,performance.html,scene.html",
     "tags": "Exercise,Group Game,Listening,Performance,Scenework",
     "primary_page": "group.html#adGame",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>An ensemble member comes up with an unusual product by taking an ordinary item and giving it an unusual trait</li>",
+        "3": "\t<ul>",
+        "5": "\t\t<li><em>A car that changes color based on it's surroundings.</em></li>",
+        "6": "\t\t<li><em>A refrigerator that is also a radio.</em></li>",
+        "7": "\t</ul>",
+        "8": "\t<li>The ensemble works together to create an advertising campaign for an unusual product.</li>",
+        "9": "\t<li>They will come up with a name, slogan, target demographic, celebrity spokesperson, jingle, etc...</li>",
+        "10": "\t<li>All the elements of the product should complement each other.</li>",
+        "11": "\t<li>No matter the idea, the entire group must support and yes and it.</li>",
+        "12": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li><strong>Player 1: \"We could call it The Chameleon!\"</strong></li>",
+        "3": "\t<li><strong>Player 2: \"Yeah! We could have Meryl Streep as the spokesperson. She could talk about how she disappears into her roles like this car disappears into it's surroundings.\"</strong></li>",
+        "4": "\t<li><strong>Player 3: \"Yeah! She could start off the commercial as Julia Child and then finish as Margaret Thatcher.\"</strong></li>",
+        "5": "\t<li><strong>Player 4: \"We could sell it to criminals! If they're being chased by the police, they can blend into their surroundings to hide.\"</strong></li>",
+        "6": "\t<li><strong>Player 3: \"We could take helicopter footage of a police chase and suddenly, the car disappears, blending into the highway!\"</strong></li>",
+        "7": "\t<li><strong>Player 2: \"When you don't want to be seen, this is your machine.\"</strong></li>",
+        "8": "\t<li><strong>Player 4: \"Great slogan! *Starts to sing* This car's named after a lizard that can hide, buy this car and camouflage your ride!\"</strong></li>",
+        "9": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "<p>Used as an exercise, the ensemble will...</p>",
+        "3": "\t<li>Practice performing verbal all-at-once group games.</li>",
+        "4": "\t<li>Strengthen their ability to listen, yes and, and utilize give and take.</li>",
+        "5": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>The Upright Citizens Brigade Comedy Improv Manual (second edition) by Matt Besser, Ian Roberts, and Matt Walsh - p. 302</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Alien Tiger Cow",
     "id": "alienTigerCow",
-    "tagPages": "child_friendly.html,exercises.html,party.html",
-    "tags": "Child Friendly,Exercise,Party",
+    "tagPages": "child_friendly.html,exercises.html,party.html,warm_ups.html",
+    "tags": "Child Friendly,Exercise,Party,Warm Up",
     "primary_page": "child_friendly.html#alienTigerCow",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Instructions": {
+        "1": "<ul>",
+        "2": "\t<li>The group forms a circle.</li>",
+        "3": "\t<li>On the count of three all players strike a pose and make a noise as an alien, a tiger, or a cow.</li>",
+        "4": "<ul>",
+        "5": "\t\t<li>Alien: Hold your two index fingers up to your head like antennae and say \"Bleep blorp!\"</li>",
+        "6": "\t\t<li>Tiger: Throw your hands out like your clawing and roar.</li>",
+        "7": "\t\t<li>Cow: Hold your hands up to you stomach with your fingers sticking out like udders and say \"Mooo!\"</li>",
+        "8": "</ul>",
+        "9": "\t<li>Then repeat!</li>",
+        "10": "\t<li>You can play with the intention of everyone trying to land on the same pose or eliminate the minority group each time until there is only one or two players left.</li>",
+        "11": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>This is a fun easy way to warm up. Great for children or beginners.</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Alphabet Game",
@@ -77,11 +181,33 @@
     "tagPages": "exercises.html,listening.html,performance.html,scene.html",
     "tags": "Exercise,Listening,Performance,Scenework",
     "primary_page": "exercises.html#alphabetGame",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Bad Rap",
@@ -89,47 +215,33 @@
     "tagPages": "exercises.html,listening.html,musical.html,party.html,warm_ups.html",
     "tags": "Exercise,Listening,Musical,Party,Warm Up",
     "primary_page": "warm_ups.html#badRap",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
-  },
-  {
-    "title": "Bard's Ballad",
-    "id": "bardsBallad",
-    "tagPages": "group.html,musical.html,narrative.html,performance.html,scene.html",
-    "tags": "Group Game,Musical,Narrative,Performance,Scene",
-    "primary_page": "musical.html#bardsBallad",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
-  },
-  {
-    "title": "Bat",
-    "id": "bat",
-    "tagPages": "long_forms.html,performance.html,scene.html",
-    "tags": "Long Form,Performance,Scene",
-    "primary_page": "long_forms.html#bat",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
-  },
-  {
-    "title": "Beastie Boys",
-    "id": "beastieBoys",
-    "tagPages": "exercises.html,listening.html,musical.html,party.html,performance.html,warm_ups.html",
-    "tags": "Exercise,Listening,Musical,Party,Performance/Warm Up",
-    "primary_page": "musical.html#beastieBoys",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Big Booty",
@@ -137,11 +249,33 @@
     "tagPages": "exercises.html,listening.html,party.html,warm_ups.html",
     "tags": "Exercise,Listening,Party,Warm Up",
     "primary_page": "warm_ups.html#bigBooty",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Bunny Bunny",
@@ -149,11 +283,33 @@
     "tagPages": "child_friendly.html,energy.html,listening.html,party.html,warm_ups.html",
     "tags": "Child Friendly,Energy,Listening,Party,Warm Up",
     "primary_page": "warm_ups.html#bunnyBunny",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Chameleon",
@@ -161,11 +317,23 @@
     "tagPages": "character.html,exercises.html,scene.html",
     "tags": "Character,Exercise,Scene",
     "primary_page": "character.html#chameleon",
-    "description": "<p><strong>Description:</strong><br><ul><li>Several improvisers from a back line.</li><li>One player steps forward, they will be the chameleon.</li><li>One at a time players step off the back line to initiate a short scene with the chameleon.</li><li>They should enter with a strong character choice.</li><li>The chameleon has to match their character choice and the two do a peas in a pod scene.</li><li>After a few short scenes, a new player from the back line becomes the chameleon.</li></ul><hr><p><strong>Tips:</strong><ul><li>Don't start a scene with an initiation that makes it difficult for the chameleon to match your character.</li></ul><hr><p><strong>sources:</strong><br><ul><li>The Upright Citizens Brigade Comedy Improv Manual (second edition) by Matt Besser, Ian Roberts, and Matt Walsh - p. 178</li></ul><hr>",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Several improvisers from a back line.</li>",
+        "3": "\t<li>One player steps forward, they will be the chameleon.</li>",
+        "4": "\t<li>One at a time players step off the back line to initiate a short scene with the chameleon.</li>",
+        "5": "\t<li>They should enter with a strong character choice.</li>",
+        "6": "\t<li>The chameleon has to match their character choice and the two do a peas in a pod scene.</li>",
+        "7": "\t<li>After a few short scenes, a new player from the back line becomes the chameleon.</li>",
+        "99": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>The Upright Citizens Brigade Comedy Improv Manual (second edition) by Matt Besser, Ian Roberts, and Matt Walsh - p. 178</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Chain Murder",
@@ -174,22 +342,68 @@
     "tags": "Gibberish,Guessing,Object Work,Performance",
     "primary_page": "guessing.html#chainMurder",
     "description": "<p><strong>Description:</strong><br><ul><li>This is a game for 4+ players where each walk-on will have to try and guess the suggestions and then convey them to the next person using only miming and gibberish.</li><li>All but one player leaves the room and the remaining player and/or host get three suggestions.</li><li>The suggestions are for an occupation, weapon, and location.</li><li>The scene starts when the starting player mimes killing an improviser from the backline with the murder weapon. The murdered player should lay on the floor and become a dead body.</li><li>Teach the audience to shout a phrase like, Oh no! There's been a murder!, each time a murder happens to summon in the next player.</li><li>Each player who enters the scene will assume the standing player has murdered the dead person or persons on the floor and accuse them (using only gibberish mind you).</li><li>The standing player then mimes the three suggestions in order.</li><li>The guessing player should give some indication that they think they know what the suggestion is before the miming player moves on to the next one.</li><li>Once the guessing player understands all three suggestions they then mime killing the other player with what they think is the murder weapon.</li><li>This cycle continues until all players have had their turn.</li><li>At the end we call scene and the host goes down the line and each improviser says what they think the suggestions were.</li><li>Instruct the audience to clap or make a buzzer sound based on if the improviser is correct or not.</li></ul><hr><p><strong>Tips:</strong><ul><li>Use the acronym O.W.L. to remember the order of the suggestions being acted out.</li><li>Really play up the gibberish and be expressive. The scene gets awkward if the players are too quiet or not animated enough.</li><li>The guessers shouldn't make the miming player spend too much time on each suggestion, as soon as you think you have an idea of what they might be doing give them the go-ahead to switch to the next suggestion. We don't want the scene to go on too long and it's funnier if the suggestions get lost along the way than if they stay the same the whole time.</li></ul><hr>",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
-    "title": "Change AKA New Decision",
+    "title": "Change",
     "id": "change",
     "tagPages": "child_friendly.html,performance.html,scene.html,torture.html",
     "tags": "Child Friendly,Performance,Scenework,Torture",
     "primary_page": "performance.html#change",
     "description": "<p><strong>Description:</strong><ul><li>Two players start a scene and a third acts as a host. The host will ring a bell or say a phrase like change! or new decision! periodically after a line of dialogue has been said. The player who said that last line of dialogue will have to say a new line of dialogue to replace it.</li></ul></p><hr><p><strong>Example:</strong><ul><li>Player 1: What do you want?</li><li>Player 2: I want a muffin.</li><li>Host: Change!</li><li>Player 2: I want a whole cake to myself</li><li>Host: Change!</li><li>Player 2: I want you to love me again!</li></ul></p><hr><p><strong>Tips:</strong><ul><li>Try to heighten each time you are made to change a line of dialogue and go for a drastic change on the third changed line.</li><li>As the host, utilize the rule of three most of the time, only occasionally making the players change only one line of dialogue or making them change many lines in a long run of changes.</li></ul><hr></p>",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Character Panel",
@@ -197,11 +411,33 @@
     "tagPages": "character.html,child_friendly.html,exercises.html,performance.html",
     "tags": "Character,Child Friendly,Exercise,Performance",
     "primary_page": "character.html#characterPanel",
-    "description": "<p><strong>Description:</strong><ul><li>Two players start a scene and a third acts as a host. The host will ring a bell or say a phrase like change! or new decision! periodically after a line of dialogue has been said. The player who said that last line of dialogue will have to say a new line of dialogue to replace it.</li></ul></p><hr><p><strong>Example:</strong><ul><li>Player 1: What do you want?</li><li>Player 2: I want a muffin.</li><li>Host: Change!</li><li>Player 2: I want a whole cake to myself</li><li>Host: Change!</li><li>Player 2: I want you to love me again!</li></ul></p><hr><p><strong>Tips:</strong><ul><li>Try to heighten each time you are made to change a line of dialogue and go for a drastic change on the third changed line.</li><li>As the host, utilize the rule of three most of the time, only occasionally making the players change only one line of dialogue or making them change many lines in a long run of changes.</li></ul><hr></p>",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Character Matching",
@@ -209,23 +445,33 @@
     "tagPages": "character.html,exercises.html,warm_ups.html",
     "tags": "Character,Exercise,Warm Up",
     "primary_page": "character.html#characterMatching",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
-  },
-  {
-    "title": "Don't Talk about the Thing",
-    "id": "dontTalkAboutTheThing",
-    "tagPages": "exercises.html,object_work.html,scene.html",
-    "tags": "Exercise,Object Work,Scenework",
-    "primary_page": "object_work.html#dontTalkAboutTheThing",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Mind Meld",
@@ -233,11 +479,33 @@
     "tagPages": "exercises.html,listening.html,party.html,warm_ups.html",
     "tags": "Exercise,Listening,Party,Warm Up",
     "primary_page": "warm_ups.html#mindMeld",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Pillars",
@@ -245,11 +513,33 @@
     "tagPages": "audience_participation.html,listening.html,performance.html,scene.html",
     "tags": "Audience Participation,Listening,Performance,Scenework",
     "primary_page": "audience_participation.html#pillars",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Sentence Game",
@@ -257,11 +547,67 @@
     "tagPages": "justification.html,listening.html,performance.html,scene.html,sentences.html",
     "tags": "Justification,Listening,Performance,Scenework,Sentences",
     "primary_page": "sentence.html#sentenceGame",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
+  },
+  {
+    "title": "Talk About Something Else",
+    "id": "talkAboutSomethingElse",
+    "tagPages": "exercises.html,object_work.html,scene.html",
+    "tags": "Exercise,Object Work,Scenework",
+    "primary_page": "object_work.html#talkAboutSomethingElse",
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Taxi",
@@ -269,11 +615,33 @@
     "tagPages": "character.html,child_friendly.html,guessing.html,performance.html",
     "tags": "Character,Child Friendly,Guessing,Performance",
     "primary_page": "guessing.html#taxi",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   },
   {
     "title": "Typewriter",
@@ -281,10 +649,32 @@
     "tagPages": "exercises.html,listening.html,long_forms.html,narrative.html,performance.html,scene.html",
     "tags": "Exercise,Listening,Long Form,Narrative,Performance,Scenework",
     "primary_page": "narrative.html#typewriter",
-    "description": "description",
-    "example": "",
-    "purpose": "",
-    "tips": "",
-    "sources": ""
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
   }
 ]

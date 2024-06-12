@@ -133,6 +133,12 @@ li {
   -moz-columns: 8;
 }
 
+.ten-column-list {
+  columns: 10;
+  -webkit-columns: 10;
+  -moz-columns: 10;
+}
+
 .twelve-column-list {
   columns: 12;
   -webkit-columns: 12;

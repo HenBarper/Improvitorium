@@ -1,0 +1,137 @@
+[
+  {
+    "title": "A Real Reason",
+    "id": "aRealReason",
+    "tagPages": "exercises.html",
+    "tags": "Exercise",
+    "primary_page": "exercises.html#aRealReason",
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Two players take the stage.</li>",
+        "3": "\t<li>Player 1 makes an accusation against player 2.</li>",
+        "4": "\t<li>Player 2 must then give a real, logical reason why they would have done that thing.</li>",
+        "5": "\t<li>Player 2 must accept without argument that they did the thing of which they are accused.</li>",
+        "6": "\t<li>This exercise is part of a series try <a href='exercises.html#supervillain'>Supervillain / Mastermind</a> then <a href='exercises.html#ownIt'>Own It</a> before this exercise.</li>",
+        "7": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "\t<li>Player 1: Sir... We found these knives and excessive liquids in your luggage. Were you planning on taking these onto the plane?</li>",
+        "4": "\t<li>Player 2 as supervillain: Yes! So I can take over the skies!</li>",
+        "5": "\t<li>Player 2 owning it: Yes I plan on bullying passengers up there!</li>",
+        "6": "\t<li>Player 2 giving a real reason: You know, I was just hoping you wouldn't check. I thought I could get away with it. I think TSA policies are kinda dumb. I'm not planning anything bad, I just don't want to follow your rules.</li>",
+        "7": "\t<li>The real reason response is rich, specific and truthful. It's the best way to respond to strange endowments.</li>",
+        "8": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>How to be the Greatest Improviser on Earth by Will Hines - p. 58</li>",
+        "3": "</ul><hr>"
+      }
+    }
+  },
+  {
+    "title": "Bard's Ballad",
+    "id": "bardsBallad",
+    "tagPages": "group.html,musical.html,narrative.html,performance.html,scene.html",
+    "tags": "Group Game,Musical,Narrative,Performance,Scene",
+    "primary_page": "musical.html#bardsBallad",
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
+  },
+  {
+    "title": "Bat",
+    "id": "bat",
+    "tagPages": "long_forms.html,performance.html,scene.html",
+    "tags": "Long Form,Performance,Scene",
+    "primary_page": "long_forms.html#bat",
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
+  },
+  {
+    "title": "Beastie Boys",
+    "id": "beastieBoys",
+    "tagPages": "exercises.html,listening.html,musical.html,party.html,performance.html,warm_ups.html",
+    "tags": "Exercise,Listening,Musical,Party,Performance/Warm Up",
+    "primary_page": "musical.html#beastieBoys",
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
+  },
+]
