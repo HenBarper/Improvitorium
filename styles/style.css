@@ -77,6 +77,19 @@ li {
   opacity: 0.65;
 }
 
+/* CATEGORIES PAGE */
+.category-table {
+  width: 100%;
+  text-align: center;
+  /* border: 1px solid white; */
+}
+/* .category-table tr{
+  border: 1px solid white;
+}
+.category-table td{
+  border: 1px solid white;
+} */
+
 /* FORMATTING GAME BOXES */
 .games-list {
   background-color: var(--tertiary-bg, darkolivegreen);

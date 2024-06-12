@@ -78,7 +78,7 @@
     "title": "60 Seconds of Silence",
     "id": "60SecondsOfSilence",
     "tagPages": "exercises.html,scene.html",
-    "tags": "Exercise,Scenework",
+    "tags": "Exercise,Scene Work",
     "primary_page": "exercises.html#60SecondsOfSilence",
     "info": {
       "Description": {
@@ -107,7 +107,7 @@
     "title": "Ad Game",
     "id": "adGame",
     "tagPages": "exercises.html,group.html,listening.html,performance.html,scene.html",
-    "tags": "Exercise,Group Game,Listening,Performance,Scenework",
+    "tags": "Exercise,Group Game,Listening,Performance,Scene Work",
     "primary_page": "group.html#adGame",
     "info": {
       "Description": {
@@ -179,7 +179,7 @@
     "title": "Alphabet Game",
     "id": "alphabetGame",
     "tagPages": "exercises.html,listening.html,performance.html,scene.html",
-    "tags": "Exercise,Listening,Performance,Scenework",
+    "tags": "Exercise,Listening,Performance,Scene Work",
     "primary_page": "exercises.html#alphabetGame",
     "info": {
       "Description": {
@@ -374,7 +374,7 @@
     "title": "Change",
     "id": "change",
     "tagPages": "child_friendly.html,performance.html,scene.html,torture.html",
-    "tags": "Child Friendly,Performance,Scenework,Torture",
+    "tags": "Child Friendly,Performance,Scene Work,Torture",
     "primary_page": "performance.html#change",
     "description": "<p><strong>Description:</strong><ul><li>Two players start a scene and a third acts as a host. The host will ring a bell or say a phrase like change! or new decision! periodically after a line of dialogue has been said. The player who said that last line of dialogue will have to say a new line of dialogue to replace it.</li></ul></p><hr><p><strong>Example:</strong><ul><li>Player 1: What do you want?</li><li>Player 2: I want a muffin.</li><li>Host: Change!</li><li>Player 2: I want a whole cake to myself</li><li>Host: Change!</li><li>Player 2: I want you to love me again!</li></ul></p><hr><p><strong>Tips:</strong><ul><li>Try to heighten each time you are made to change a line of dialogue and go for a drastic change on the third changed line.</li><li>As the host, utilize the rule of three most of the time, only occasionally making the players change only one line of dialogue or making them change many lines in a long run of changes.</li></ul><hr></p>",
     "info": {
@@ -474,6 +474,42 @@
     }
   },
   {
+    "title": "Day in the Life",
+    "id": "dayInTheLife",
+    "tagPages": "exercises.html,interview.html,listening.html,narrative.html,performance.html,scene.html",
+    "tags": "Exercises,Interview,Listening,Narrative,Performance,Scene Work",
+    "primary_page": "interview.html#dayInTheLife",
+    "info": {
+      "Instructions": {
+        "1": "<ul>",
+        "2": "\t<li>An audience volunteer is selected to tell the story of their day, or alternatively you could ask for a specific type of story.</li>",
+        "3": "\t<ul>",
+        "4": "\t\t<li>Best day of your life</li>",
+        "5": "\t\t<li>For a theme show: your craziest New Years Eve story</li>",
+        "6": "\t</ul>",
+        "7": "\t<li>The interviewer or backline should feel free to ask clarifying questions or to ask for more details if the story teller is a little more timid.</li>",
+        "8": "\t<li>After the interview, the ensemble will perform this persons day.</li>",
+        "9": "\t<li>The goal is not to recreate the story as is, the goal is to use the characters, ideas, situations, and general structure from the story to create a fun scene.</li>",
+        "10": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>The interview section will force improvisers to listen intently.</li>",
+        "3": "\t<li>This is a good exercise to teach the basics of premise based long form, like listening for specifcs in an opening and bringing them into a scene.</li>",
+        "4": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Members from the backline should feel free to become inanimate objects in sections of the scene where there are no secondary characters present.</li>",
+        "3": "\t<li>Don't be overly indulgent in the interview section, we don't want to alienate the audience member by constantly interupting them for jokes. The improvisers can be funny during the scene.</li>",
+        "4": "\t<ul>",
+        "5": "\t\t<li>It will also make the whole setup and scene take a really long time.</li>",
+        "6": "\t</ul>",
+        "7": "</ul><hr>"
+      }
+    }
+  },
+  {
     "title": "Mind Meld",
     "id": "mindMeld",
     "tagPages": "exercises.html,listening.html,party.html,warm_ups.html",
@@ -511,7 +547,7 @@
     "title": "Pillars",
     "id": "pillars",
     "tagPages": "audience_participation.html,listening.html,performance.html,scene.html",
-    "tags": "Audience Participation,Listening,Performance,Scenework",
+    "tags": "Audience Participation,Listening,Performance,Scene Work",
     "primary_page": "audience_participation.html#pillars",
     "info": {
       "Description": {
@@ -545,7 +581,7 @@
     "title": "Sentence Game",
     "id": "sentenceGame",
     "tagPages": "justification.html,listening.html,performance.html,scene.html,sentences.html",
-    "tags": "Justification,Listening,Performance,Scenework,Sentences",
+    "tags": "Justification,Listening,Performance,Scene Work,Sentences",
     "primary_page": "sentence.html#sentenceGame",
     "info": {
       "Description": {
@@ -576,10 +612,44 @@
     }
   },
   {
+    "title": "Tagline Song",
+    "id": "taglineSong",
+    "tagPages": "musical.html,song_formats.html",
+    "tags": "Musical,Song Format",
+    "primary_page": "song_formats.html#taglineSong",
+    "info": {
+      "Format": {
+        "1": "<ul>",
+        "2": "\t<li>Description text</li>",
+        "3": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Example text</li>",
+        "3": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Purpose text</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Tips text</li>",
+        "3": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li>Sources text</li>",
+        "3": "</ul><hr>"
+      }
+    }
+  },
+  {
     "title": "Talk About Something Else",
     "id": "talkAboutSomethingElse",
     "tagPages": "exercises.html,object_work.html,scene.html",
-    "tags": "Exercise,Object Work,Scenework",
+    "tags": "Exercise,Object Work,Scene Work",
     "primary_page": "object_work.html#talkAboutSomethingElse",
     "info": {
       "Description": {
@@ -647,7 +717,7 @@
     "title": "Typewriter",
     "id": "typewriter",
     "tagPages": "exercises.html,listening.html,long_forms.html,narrative.html,performance.html,scene.html",
-    "tags": "Exercise,Listening,Long Form,Narrative,Performance,Scenework",
+    "tags": "Exercise,Listening,Long Form,Narrative,Performance,Scene Work",
     "primary_page": "narrative.html#typewriter",
     "info": {
       "Description": {
