@@ -6,21 +6,31 @@
   --primary-text: #ede6ce;
   --secondary-text: #f0c1ad;
   --accent-col: #cb6639;
-  --link-standard: #6589bd;
-  --link-visited: #9165bd;
-  --link-hover: #b5cbea;
-  --link-hover-visited: #ccadec;
+  --link-standard: #35A387;
+  --link-visited: #35A387;
+  --link-hover: #cb653a;
+  --link-hover-visited: #dbc58f;
+  /* realtime colors */
+  --text: #ede6cf;
+  --text_dark: #061428;
+  --background: #061428;
+  --background-light: #081B36;
+  --primary: #dbc58f;
+  --secondary: #29806a;
+  --secondary_dark: #0C2A22;
+  --secondary2: #284479;
+  --accent: #cb653a;
 }
 
 /* ---------- HEADER & FOOTER ---------- */
 header, footer {
-  background-color: var(--secondary-bg, darkcyan);
+  background-color: var(--background-light, darkcyan);
 }
 header {
-  border-bottom: 3px solid var(--accent-col);
+  border-bottom: 3px solid var(--accent);
 }
 footer {
-  border-top: 3px solid var(--accent-col);
+  border-top: 3px solid var(--accent);
   /* position: fixed;
   bottom: 0;
   width: 100%;
@@ -30,15 +40,15 @@ footer {
 
 /* ---------- BODY ---------- */
 body {
-  background-color: var(--main-bg, darkblue);
+  background-color: var(--background, darkblue);
 }
 
 h1, h2, h3, h4, h5, h6, p, hr {
-  color: var(--primary-text, white);
+  color: var(--text, white);
 }
 
 hr {
-  color: var(--accent-col);
+  color: var(--accent);
   opacity: 1;
 }
 
@@ -58,7 +68,7 @@ a:visited:hover {
 
 li {
   /* color: gray; */
-  color: var(--primary-text, white);
+  color: var(--text, white);
 }
 
 /* ---------- CUSTOM CLASSES ---------- */
@@ -72,9 +82,22 @@ li {
 
 .thick-hr {
   height: 4px;
-  background-color: var(--accent-col);
+  background-color: var(--accent);
   border: none;
   opacity: 0.65;
+}
+
+.back-top{
+  color: var(--accent, orange) !important;
+}
+.back-top:hover {
+  color: var(--accent, orange) !important;
+}
+.back-top:visited {
+  color: var(--accent, orange) !important;
+}
+.back-top:visited:hover {
+  color: var(--accent, orange) !important;
 }
 
 /* CATEGORIES PAGE */
@@ -83,6 +106,17 @@ li {
   text-align: center;
   /* border: 1px solid white; */
 }
+.category-links {
+  /* text-align: center; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  line-height: 40px;
+  /* align-content: space-around; */
+}
+/* .category-links a{
+  flex-basis: 20%;
+} */
 /* .category-table tr{
   border: 1px solid white;
 }
@@ -92,12 +126,14 @@ li {
 
 /* FORMATTING GAME BOXES */
 .games-list {
-  background-color: var(--tertiary-bg, darkolivegreen);
-  border: 1px solid var(--accent-col, orange);
+  background-color: var(--background-light, darkolivegreen);
+  border: 1px solid var(--accent, orange);
+  border-radius: 15px;
 }
 .game-box {
-  background-color: var(--secondary-bg, darkcyan);
-  border: 1px solid var(--accent-col, orange);
+  background-color: var(--background-light, darkcyan);
+  border: 1px solid var(--accent, orange);
+  border-radius: 15px;
 }
 /* .game-description {
   background-color: var(--main-bg, darkblue);

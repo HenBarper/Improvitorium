@@ -125,13 +125,13 @@
       },
       "Example": {
         "1": "<ul>",
-        "2": "\t<li><strong>Player 1: \"We could call it The Chameleon!\"</strong></li>",
-        "3": "\t<li><strong>Player 2: \"Yeah! We could have Meryl Streep as the spokesperson. She could talk about how she disappears into her roles like this car disappears into it's surroundings.\"</strong></li>",
-        "4": "\t<li><strong>Player 3: \"Yeah! She could start off the commercial as Julia Child and then finish as Margaret Thatcher.\"</strong></li>",
-        "5": "\t<li><strong>Player 4: \"We could sell it to criminals! If they're being chased by the police, they can blend into their surroundings to hide.\"</strong></li>",
-        "6": "\t<li><strong>Player 3: \"We could take helicopter footage of a police chase and suddenly, the car disappears, blending into the highway!\"</strong></li>",
-        "7": "\t<li><strong>Player 2: \"When you don't want to be seen, this is your machine.\"</strong></li>",
-        "8": "\t<li><strong>Player 4: \"Great slogan! *Starts to sing* This car's named after a lizard that can hide, buy this car and camouflage your ride!\"</strong></li>",
+        "2": "\t<li><strong>Player 1:</strong> \"<em>We could call it The Chameleon!</em>\"</li>",
+        "3": "\t<li><strong>Player 2:</strong> \"<em>Yeah! We could have Meryl Streep as the spokesperson. She could talk about how she disappears into her roles like this car disappears into it's surroundings.</em>\"</li>",
+        "4": "\t<li><strong>Player 3:</strong> \"<em>Yeah! She could start off the commercial as Julia Child and then finish as Margaret Thatcher.</em>\"</li>",
+        "5": "\t<li><strong>Player 4:</strong> \"<em>We could sell it to criminals! If they're being chased by the police, they can blend into their surroundings to hide.</em>\"</li>",
+        "6": "\t<li><strong>Player 3:</strong> \"<em>We could take helicopter footage of a police chase and suddenly, the car disappears, blending into the highway!</em>\"</li>",
+        "7": "\t<li><strong>Player 2:</strong> \"<em>When you don't want to be seen, this is your machine.</em>\"</li>",
+        "8": "\t<li><strong>Player 4:</strong> \"<em>Great slogan! *Starts to sing* This car's named after a lizard that can hide, buy this car and camouflage your ride!</em>\"</li>",
         "9": "</ul><hr>"
       },
       "Purpose": {
@@ -618,29 +618,33 @@
     "tags": "Musical,Song Format",
     "primary_page": "song_formats.html#taglineSong",
     "info": {
-      "Format": {
+      "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>A simple tagline is descovered through a scene or suggestion.</li>",
+        "3": "\t<li>Then the music will come in and the improvisers will sing a song with four parts.</li>",
+        "4": "\t<li>In a front facing tagline song each verse starts with the Tagline.</li>",
+        "5": "\t<li>In a back facing tagline song each verse ends with the tagline, so you know before you start what rhyme you need to set up.</li>",
+        "6": "</ul><hr>"
       },
-      "Example": {
+      "Structure": {
         "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
-      },
-      "Purpose": {
-        "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Tagline Verse</li>",
+        "3": "\t<li>Tagline Verse</li>",
+        "4": "\t<li>Bridge that does not include the tagline</li>",
+        "5": "\t<li>Tagline Verse</li>",
+        "6": "\t<li>Optionally: repeat the tagline for a big finish!</li>",
+        "7": "</ul><hr>"
       },
       "Tips": {
         "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>If the tagline ends with an easy rhyme, go for a back facing tagline</li>",
+        "3": "\t<li>If the tagline seems hard to rhyme with, start your verse with the tagline.</li>",
+        "4": "\t<li>Other singers can sing the tagline on each verse even if it's not their verse. Especially at the end.</li>",
+        "5": "</ul><hr>"
       },
       "Sources": {
         "1": "<ul>",
-        "2": "\t<li>Sources text</li>",
+        "2": "\t<li><a href=\"https://www.openyourmouthandsing.co.uk/tagline-song.html\">openyourmouthandsing.co.uk</a></li>",
         "3": "</ul><hr>"
       }
     }

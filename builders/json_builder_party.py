@@ -39,7 +39,7 @@ def build_party_page_json():
             fullText += f'\t\t<h4>Tags</h4>\n'
             fullText += f'\t\t{tags_html}\n'
             fullText += f'\t\t<hr>\n'
-            fullText += f'\t\t<h5><a href="#top">Back to Top</a></h5>\n'
+            fullText += f'\t\t<h5><a class="back-top" href="#top">Back to Top</a></h5>\n'
             fullText += f'\t</div>\n\n'
             fullText += f'\t<hr class="thick-hr">\n\n'
 
