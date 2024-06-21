@@ -13,13 +13,15 @@
   /* realtime colors */
   --text: #ede6cf;
   --text_dark: #061428;
-  --background: #061428;
-  --background-light: #081B36;
+  --background: #030a14;
+  --background-light: #06152b;
   --primary: #dbc58f;
   --secondary: #29806a;
+  --secondary_light: #65d4b9;
   --secondary_dark: #0C2A22;
   --secondary2: #284479;
   --accent: #cb653a;
+  --accent_light: #f4946a;
 }
 
 /* ---------- HEADER & FOOTER ---------- */
@@ -31,9 +33,11 @@ header {
 }
 footer {
   border-top: 3px solid var(--accent);
-  /* position: fixed;
+  position: relative;
   bottom: 0;
   width: 100%;
+  margin-top: 20rem;
+  /*width: 100%;
   padding: 10px 0;
   margin: 0; */
 }
@@ -43,10 +47,13 @@ body {
   background-color: var(--background, darkblue);
 }
 
-h1, h2, h3, h4, h5, h6, p, hr {
-  color: var(--text, white);
+h1, h2, hr {
+  color: var(--secondary_light, white);
 }
 
+p, h3, h4, h5, h6 {
+  color: var(--text, white);
+}
 hr {
   color: var(--accent);
   opacity: 1;
@@ -88,16 +95,16 @@ li {
 }
 
 .back-top{
-  color: var(--accent, orange) !important;
+  color: var(--accent_light, orange) !important;
 }
 .back-top:hover {
-  color: var(--accent, orange) !important;
+  color: var(--text, orange) !important;
 }
 .back-top:visited {
-  color: var(--accent, orange) !important;
+  color: var(--accent_light, orange) !important;
 }
 .back-top:visited:hover {
-  color: var(--accent, orange) !important;
+  color: var(--textr, orange) !important;
 }
 
 /* CATEGORIES PAGE */

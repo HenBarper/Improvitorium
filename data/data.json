@@ -320,7 +320,7 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Several improvisers from a back line.</li>",
+        "2": "\t<li>Several improvisers form a back line.</li>",
         "3": "\t<li>One player steps forward, they will be the chameleon.</li>",
         "4": "\t<li>One at a time players step off the back line to initiate a short scene with the chameleon.</li>",
         "5": "\t<li>They should enter with a strong character choice.</li>",
@@ -627,13 +627,13 @@
         "6": "</ul><hr>"
       },
       "Structure": {
-        "1": "<ul>",
+        "1": "<ol>",
         "2": "\t<li>Tagline Verse</li>",
         "3": "\t<li>Tagline Verse</li>",
         "4": "\t<li>Bridge that does not include the tagline</li>",
         "5": "\t<li>Tagline Verse</li>",
         "6": "\t<li>Optionally: repeat the tagline for a big finish!</li>",
-        "7": "</ul><hr>"
+        "7": "</ol><hr>"
       },
       "Tips": {
         "1": "<ul>",
