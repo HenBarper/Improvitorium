@@ -18,7 +18,7 @@ def build_listening_page_json():
     # SUBTITLE
     linkText += f'\t<p class="text-center my-3">These games and exercises force players to use and develop good listening skills.</p>\n'
     linkText += f'\t<div class="m-5 games-list">\n'
-    linkText += f'\t\t<ul class="py-3">\n'
+    linkText += f'\t\t<ul class="py-3" aria-label="links to games and exercises on this page">\n'
     fullText = f'<div class="m-5">\n'
 
     for item in data:

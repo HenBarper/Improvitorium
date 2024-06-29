@@ -2,3 +2,4 @@ json_builder_torture.py
 json_builder_warm_ups.py
 
 Fix categories link table to be scalable
+Add aria label to links UL
