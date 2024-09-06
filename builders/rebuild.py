@@ -19,8 +19,8 @@
 # from builder_scene import build_scene_page
 # from builder_sentence import build_sentence_page
 # from builder_song_formats import build_song_formats_page
-from builder_torture import build_torture_page
-from builder_warm_ups import build_warm_ups_page
+# from builder_torture import build_torture_page
+# from builder_warm_ups import build_warm_ups_page
 
 from json_builder_audience_participation import build_audience_participation_page_json
 from json_builder_exercise import build_exercise_page_json
@@ -43,6 +43,8 @@ from json_builder_pun import build_pun_page_json
 from json_builder_scene import build_scene_page_json
 from json_builder_sentence import build_sentence_page_json
 from json_builder_song_formats import build_song_formats_page_json
+from json_builder_torture import build_torture_json
+from json_builder_warm_ups import build_warm_ups_json
 
 # build_audience_participation_page()
 build_audience_participation_page_json()
@@ -86,5 +88,7 @@ build_scene_page_json()
 build_sentence_page_json()
 # build_song_formats_page()
 build_song_formats_page_json()
-build_torture_page()
-build_warm_ups_page()
+# build_torture_page()
+build_torture_json()
+# build_warm_ups_page()
+build_warm_ups_json()

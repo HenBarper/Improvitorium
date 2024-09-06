@@ -54,7 +54,7 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Players get a suggestion and one at a time step forward and deliver a joke or pun with the format below.</li>",
+        "2": "\t<li>Improvisers get a suggestion and one at a time step forward and deliver a joke or pun with the format below.</li>",
         "3": "</ul><hr>"
       },
       "Example": {
@@ -83,7 +83,7 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Two players take the stage.</li>",
+        "2": "\t<li>Two improvisers take the stage.</li>",
         "3": "\t<li>A suggestion is given.</li>",
         "4": "\t<li>They strike a pose then hold it and wait.</li>",
         "5": "\t<li>After 60 seconds the teacher calls start and the scene begins.</li>",        
@@ -125,13 +125,13 @@
       },
       "Example": {
         "1": "<ul>",
-        "2": "\t<li><strong>Player 1:</strong> \"<em>We could call it The Chameleon!</em>\"</li>",
-        "3": "\t<li><strong>Player 2:</strong> \"<em>Yeah! We could have Meryl Streep as the spokesperson. She could talk about how she disappears into her roles like this car disappears into it's surroundings.</em>\"</li>",
-        "4": "\t<li><strong>Player 3:</strong> \"<em>Yeah! She could start off the commercial as Julia Child and then finish as Margaret Thatcher.</em>\"</li>",
-        "5": "\t<li><strong>Player 4:</strong> \"<em>We could sell it to criminals! If they're being chased by the police, they can blend into their surroundings to hide.</em>\"</li>",
-        "6": "\t<li><strong>Player 3:</strong> \"<em>We could take helicopter footage of a police chase and suddenly, the car disappears, blending into the highway!</em>\"</li>",
-        "7": "\t<li><strong>Player 2:</strong> \"<em>When you don't want to be seen, this is your machine.</em>\"</li>",
-        "8": "\t<li><strong>Player 4:</strong> \"<em>Great slogan! *Starts to sing* This car's named after a lizard that can hide, buy this car and camouflage your ride!</em>\"</li>",
+        "2": "\t<li><strong>Improviser 1:</strong> \"<em>We could call it The Chameleon!</em>\"</li>",
+        "3": "\t<li><strong>Improviser 2:</strong> \"<em>Yeah! We could have Meryl Streep as the spokesperson. She could talk about how she disappears into her roles like this car disappears into it's surroundings.</em>\"</li>",
+        "4": "\t<li><strong>Improviser 3:</strong> \"<em>Yeah! She could start off the commercial as Julia Child and then finish as Margaret Thatcher.</em>\"</li>",
+        "5": "\t<li><strong>Improviser 4:</strong> \"<em>We could sell it to criminals! If they're being chased by the police, they can blend into their surroundings to hide.</em>\"</li>",
+        "6": "\t<li><strong>Improviser 3:</strong> \"<em>We could take helicopter footage of a police chase and suddenly, the car disappears, blending into the highway!</em>\"</li>",
+        "7": "\t<li><strong>Improviser 2:</strong> \"<em>When you don't want to be seen, this is your machine.</em>\"</li>",
+        "8": "\t<li><strong>Improviser 4:</strong> \"<em>Great slogan! *Starts to sing* This car's named after a lizard that can hide, buy this car and camouflage your ride!</em>\"</li>",
         "9": "</ul><hr>"
       },
       "Purpose": {
@@ -321,11 +321,11 @@
       "Description": {
         "1": "<ul>",
         "2": "\t<li>Several improvisers form a back line.</li>",
-        "3": "\t<li>One player steps forward, they will be the chameleon.</li>",
-        "4": "\t<li>One at a time players step off the back line to initiate a short scene with the chameleon.</li>",
+        "3": "\t<li>One improviser steps forward, they will be the chameleon.</li>",
+        "4": "\t<li>One at a time improviser step off the back line to initiate a short scene with the chameleon.</li>",
         "5": "\t<li>They should enter with a strong character choice.</li>",
         "6": "\t<li>The chameleon has to match their character choice and the two do a peas in a pod scene.</li>",
-        "7": "\t<li>After a few short scenes, a new player from the back line becomes the chameleon.</li>",
+        "7": "\t<li>After a few short scenes, a new improviser from the back line becomes the chameleon.</li>",
         "99": "</ul><hr>"
       },
       "Sources": {
@@ -341,27 +341,29 @@
     "tagPages": "gibberish.html,guessing.html,object_work.html,performance.html",
     "tags": "Gibberish,Guessing,Object Work,Performance",
     "primary_page": "guessing.html#chainMurder",
-    "description": "<p><strong>Description:</strong><br><ul><li>This is a game for 4+ players where each walk-on will have to try and guess the suggestions and then convey them to the next person using only miming and gibberish.</li><li>All but one player leaves the room and the remaining player and/or host get three suggestions.</li><li>The suggestions are for an occupation, weapon, and location.</li><li>The scene starts when the starting player mimes killing an improviser from the backline with the murder weapon. The murdered player should lay on the floor and become a dead body.</li><li>Teach the audience to shout a phrase like, Oh no! There's been a murder!, each time a murder happens to summon in the next player.</li><li>Each player who enters the scene will assume the standing player has murdered the dead person or persons on the floor and accuse them (using only gibberish mind you).</li><li>The standing player then mimes the three suggestions in order.</li><li>The guessing player should give some indication that they think they know what the suggestion is before the miming player moves on to the next one.</li><li>Once the guessing player understands all three suggestions they then mime killing the other player with what they think is the murder weapon.</li><li>This cycle continues until all players have had their turn.</li><li>At the end we call scene and the host goes down the line and each improviser says what they think the suggestions were.</li><li>Instruct the audience to clap or make a buzzer sound based on if the improviser is correct or not.</li></ul><hr><p><strong>Tips:</strong><ul><li>Use the acronym O.W.L. to remember the order of the suggestions being acted out.</li><li>Really play up the gibberish and be expressive. The scene gets awkward if the players are too quiet or not animated enough.</li><li>The guessers shouldn't make the miming player spend too much time on each suggestion, as soon as you think you have an idea of what they might be doing give them the go-ahead to switch to the next suggestion. We don't want the scene to go on too long and it's funnier if the suggestions get lost along the way than if they stay the same the whole time.</li></ul><hr>",
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
-      },
-      "Example": {
-        "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
-      },
-      "Purpose": {
-        "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li><li>This is a game for 4+ improvisers where each walk-on will have to try and guess the suggestions and then convey them to the next person using only miming and gibberish.</li>",
+        "3": "\t<li>All but one improviser leaves the room and the remaining improviser and/or host get three suggestions.</li>",
+        "4": "\t<li>The suggestions are for an occupation, weapon, and location.</li>",
+        "5": "\t<li>The scene starts when the starting improviser mimes killing an improviser from the backline with the murder weapon. The murdered improviser should lay on the floor and become a dead body.</li>",
+        "6": "\t<li>Teach the audience to shout a phrase like, Oh no! There's been a murder!, each time a murder happens to summon in the next improviser.</li>",
+        "7": "\t<li>Each improviser who enters the scene will assume the standing improviser has murdered the dead person or persons on the floor and accuse them (using only gibberish mind you).</li>",
+        "8": "\t<li>The standing improviser then mimes the three suggestions in order.</li>",
+        "9": "\t<li>The guessing improviser should give some indication that they think they know what the suggestion is before the miming improviser moves on to the next one.</li>",
+        "10": "\t<li>Once the guessing improviser understands all three suggestions they then mime killing the other improviser with what they think is the murder weapon.</li>",
+        "11": "\t<li>This cycle continues until all improviser have had their turn.</li>",
+        "12": "\t<li>At the end we call scene and the host goes down the line and each improviser says what they think the suggestions were.</li>",
+        "13": "\t<li>Instruct the audience to clap or make a buzzer sound based on if the improviser is correct or not.</li>",
+        "14": "</ul><hr>"
       },
       "Tips": {
         "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Use the acronym O.W.L. to remember the order of the suggestions being acted out.</li>",
+        "3": "\t<li>Really play up the gibberish and be expressive. The scene gets awkward if the improviser are too quiet or not animated enough.</li>",
+        "4": "\t<li>The guessers shouldn't make the miming improviser spend too much time on each suggestion, as soon as you think you have an idea of what they might be doing give them the go-ahead to switch to the next suggestion. We don't want the scene to go on too long and it's funnier if the suggestions get lost along the way than if they stay the same the whole time.</li>",
+        "5": "</ul><hr>"
       },
       "Sources": {
         "1": "<ul>",
@@ -376,32 +378,29 @@
     "tagPages": "child_friendly.html,performance.html,scene.html,torture.html",
     "tags": "Child Friendly,Performance,Scene Work,Torture",
     "primary_page": "performance.html#change",
-    "description": "<p><strong>Description:</strong><ul><li>Two players start a scene and a third acts as a host. The host will ring a bell or say a phrase like change! or new decision! periodically after a line of dialogue has been said. The player who said that last line of dialogue will have to say a new line of dialogue to replace it.</li></ul></p><hr><p><strong>Example:</strong><ul><li>Player 1: What do you want?</li><li>Player 2: I want a muffin.</li><li>Host: Change!</li><li>Player 2: I want a whole cake to myself</li><li>Host: Change!</li><li>Player 2: I want you to love me again!</li></ul></p><hr><p><strong>Tips:</strong><ul><li>Try to heighten each time you are made to change a line of dialogue and go for a drastic change on the third changed line.</li><li>As the host, utilize the rule of three most of the time, only occasionally making the players change only one line of dialogue or making them change many lines in a long run of changes.</li></ul><hr></p>",
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Two improvisers start a scene and a third acts as a host.</li>",
+        "3": "\t<li>The host will ring a bell or say a phrase like change! or new decision! periodically after a line of dialogue has been said.</li>",
+        "4": "\t<li>The improviser who said that last line of dialogue will have to say a new line of dialogue to replace it.</li>",
+        "5": "</ul><hr>"
       },
       "Example": {
         "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
-      },
-      "Purpose": {
-        "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Improviser 1: What do you want?</li>",
+        "3": "\t<li>Improviser 2: I want a muffin.</li>",
+        "4": "\t<li>Host: Change!</li>",
+        "5": "\t<li>Improviser 2: I want a whole cake to myself.</li>",
+        "6": "\t<li>Host: Change!</li>",
+        "7": "\t<li>Improviser 2: I want you to love me again!</li>",
+        "8": "</ul><hr>"
       },
       "Tips": {
         "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
-      },
-      "Sources": {
-        "1": "<ul>",
-        "2": "\t<li>Sources text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Try to heighten each time you are made to change a line of dialogue and go for a drastic change on the third changed line.</li>",
+        "3": "\t<li>As the host, utilize the rule of three most of the time, only occasionally making the improvisers change only one line of dialogue or making them change many lines in a long run of changes.</li>",
+        "4": "</ul><hr>"
       }
     }
   },
@@ -544,6 +543,35 @@
     }
   },
   {
+    "title": "Organic Long Form",
+    "id": "organicLongForm",
+    "tagPages": "long_forms.html, performance.html, warm_ups.html",
+    "tags": "Long Form, Performace, Warm Up",
+    "primary_page": "long_forms.html#organicLongForm",
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>This format is without any real structure.</li>",
+        "3": "\t<li>A suggestion can be gotten at the top or the set can begin completely organically.</li>",
+        "4": "\t<li>If a suggestion is gotten at the top, that will inspire the initiation for the first scene.</li>",
+        "5": "\t<li>Each scene will be initiated based off something organically pulled from the improvisers mind, or from an element from the scene the preceeded it.</li>",
+        "6": "\t<li>Imrpovisers can use any support moves or edits available to them to play the scenes before moving on to the next.</li>",
+        "7": "\t<li>The scenes do not have to have any through line or connections.</li>",
+        "8": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>Doing organic sets is a great way to practice finding and playing game organically.</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Try to add variety to your scenes by varying them in length, number of performers per scene and energy level.</li>",
+        "3": "</ul><hr>"
+      }
+    }
+  },
+  {
     "title": "Pillars",
     "id": "pillars",
     "tagPages": "audience_participation.html,listening.html,performance.html,scene.html",
@@ -552,28 +580,32 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>One or Two volunteers from the audience are selected to come stand or sit on stage.</li>",
+        "3": "\t<li>Get a suggestion.</li>",
+        "4": "\t<li>Two improvisers perform a scene.</li>",
+        "5": "\t<li>Every now and then the improvisers will tap a volunteer on the shoulder and the volunteer will supply a random word.</li>",
+        "6": "\t<li>The improvisor will then have to justify that word as if they had said it themself.</li>",
+        "7": "</ul><hr>"
       },
       "Example": {
         "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
-      },
-      "Purpose": {
-        "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Improviser 1: Sure is a beautiful day!</li>",
+        "3": "\t<li>Improviser 2: Yeah, on a day like this I really feel like... *taps volunteer*</li>",
+        "4": "\t<li>Volunteer: Scooping!</li>",
+        "5": "\t<li>Improviser 2: Scooping up some mud and just making some mud pies with you bro.</li>",
+        "6": "\t<li>Improviser 1: Ah! That sounds amazing! I... *taps volunteer*</li>",
+        "7": "\t<li>Volunteer: Grapes!</li>",
+        "8": "\t<li>Improviser 1: Grapes, I think grapes are the snack we should bring.</li>",
+        "9": "\t<li>Improviser 2: You're so thoughtful. You know I love grapes because... *taps volunteer*</li>",
+        "10": "\t<li>Volunteer: Sniff!</li>",
+        "11": "\t<li>Improviser 2: Sniff, the sniff aroma of grapes pleases me.</li>",
+        "12": "</ul><hr>"
       },
       "Tips": {
         "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
-      },
-      "Sources": {
-        "1": "<ul>",
-        "2": "\t<li>Sources text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Give the audience members a chance to practice before you really start the scene.</li>",
+        "3": "\t<li>Instruct the audience memebers to just blurt out a random word, don't try to make it fit in the context of the scene.</li>",
+        "4": "</ul><hr>"
       }
     }
   },
