@@ -286,28 +286,21 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
-      },
-      "Example": {
-        "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>The group forms a circle and everyone begins patting their legs in rhythm and chanting \"zoom-ba zoom-ba\".</li>",
+        "3": "\t<li>One player will start by saying(in rhythm) \"bunny bunny\" while making two pairs of bunny ears with their hands and pointing them at themself.</li>",
+        "4": "\t<li>That same player with then repeat the above step but point the bunny ears and someone else in the circle.</li>",
+        "5": "\t<li>That person who was pointed to will repeat the above two steps pointing to a new person, and we pass it around the circle.</li>",
+        "6": "\t<li>While any player is doing the bunny ears part, the two players on either side of them should face towards them and wave their arms left and right chanting \"ticky tocky ticky tocky\"!</li>",
+        "7": "\t<li>This game can go as long as it needs to or until it feels like we've exhausted the fun or novelty of it.</li>",
+        "8": "\t<li>Optionally the group can slowly ramp up the speed and end it once it becomes to fast to continue.</li>",
+        "9": "</ul><hr>"
       },
       "Purpose": {
         "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
-        "3": "</ul><hr>"
-      },
-      "Tips": {
-        "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
-      },
-      "Sources": {
-        "1": "<ul>",
-        "2": "\t<li>Sources text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Great warm up to just prepare to be silly.</li>",
+        "3": "\t<li>Helpful listening exercise.</li>",
+        "4": "\t<li>Good for building up energy.</li>",
+        "5": "</ul><hr>"
       }
     }
   },
@@ -618,28 +611,57 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Before the show have audience members write sentences on strips of paper.</li>",
+        "3": "\t<li>These can be random silly sentences, song lyrics, lines from movies, pick-up lines, or anything else!</li>",
+        "4": "\t<li>Set up a basic scene with a suggestion or use one of the variations below, then pass out 3-4 sentence strips to the improvisers.</li>",
+        "5": "\t<li>The improvisers will perform a scene, occasionally pulling out a sentence strip and reading it as their dialogue.</li>",
+        "6": "\t<li>The improvisers must then justify the line they just said.</li>",
+        "7": "\t<li>The scene continues until the host edits, usually after they've used all their sentence strips.</li>",
+        "8": "</ul><hr>"
       },
       "Example": {
         "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Improviser 1: I love the sound of rain outside.</li>",
+        "3": "\t<li>Improviser 2: Yeah I feel so peacful.</li>",
+        "4": "\t<li>Improviser 1 pulls out a sentence strip</li>",
+        "5": "\t<li>Improviser 1: Get rid out it, now!</li>",
+        "6": "\t<li>Improviser 2: What?! Get rid of what?!</li>",
+        "7": "\t<li>Improviser 1: There's spinach in your teeth! It's making me sick!</li>",
+        "8": "</ul><hr>"
       },
       "Purpose": {
         "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>A great exercise in listening and justification.</li>",
+        "3": "\t<li>Usually a real crowd pleaser, audience members are excited to hear the dialogue they wrote, and it's always funny to see the cast react to the out of no where line they've just said and try to justify it.</li>",
+        "4": "</ul><hr>"
       },
       "Tips": {
         "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>It's usually best to just pull out a strip and read it without any prompting like \"My grampa always told me...\" or \"That makes me think of the time...\"</li>",
+        "3": "\t<li>Don't read the strip immediately, give the scene a few lines back and forth to establish the base reality and a bit of the character first.</li>",
+        "4": "\t<li>You can have someone(not someone who will be performing in these scenes) pre read the sentences to make sure there isn't anything problematic.</li>",
+        "5": "\t<li>Either way make sure the improvisers know they can omit anything from their strip they deem problematic or are uncomfortable saying.</li>",
+        "6": "</ul><hr>"
       },
-      "Sources": {
+      "Variations": {
         "1": "<ul>",
-        "2": "\t<li>Sources text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Pick-up lines</li>",
+        "3": "\t\t<ul>",
+        "4": "\t\t<li>Have the audience members write pick-up lines on the strips.</li>",
+        "5": "\t\t<li>Designate 2-3 improvisers to be the ones the pickup-ees and the others will get the sentence strips and be the pickup-ers</li>",
+        "6": "\t\t<li>You can say they're at a bar or get a suggestion for where these pick-ups are happening.</li>",
+        "7": "\t\t<li>The pickup-ers will take turns shooting their shot, coming up to talk to the pickup-ees, delivering their pick-up lines, and getting rejected.</li>",
+        "8": "\t\t<li>It's fun if by the end, at least one of the pick-up lines works and that pair leave together.</li>",
+        "9": "\t\t</ul>",
+        "10": "\t<li>Eulogy</li>",
+        "11": "\t\t<ul>",
+        "12": "\t\t<li>Get an audience member to volunteer their name, the improvisers will be attending their funeral.</li>",
+        "13": "\t\t<li>We designate the front center stage to be where the open casket is located.</li>",
+        "14": "\t\t<li>The improvisers will approach in groups of 2 or 3, mix and matching performers each time they come back.</li>",
+        "15": "\t\t<li>They will be playing the dead persons, friends, family, co workers, etc... Talking and sharing stories about the person using their sentence strips as inspiration.</li>",
+        "16": "\t\t</ul>",
+        "17": "\t<li>These are just couple variations we play, there are infinite possibilities so make up and experiment with your own.</li>",
+        "18": "</ul><hr>"
       }
     }
   },
