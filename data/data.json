@@ -440,27 +440,40 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Improvisers form a circle.</li>",
+        "3": "\t<li>One improviser will cross the circle to approach another improviser and initiate a 3-4 line scene with them.</li>",
+        "4": "\t<li>The initiating improviser will make a strong character choice, embracing the physicality, characteristics, and voice of that character as they approach and initiate.</li>",
+        "5": "\t<li>The improviser who was approached will take on the same physicality, characteristics, and voice as the approaching improviser and respond to their initiation.</li>",
+        "6": "\t<li>They should take on the same characteristics even if the approaching improviser makes it clear in their initiating line that they are not the same type of character(see example below).</li>",
+        "7": "\t<li>After 3-4 lines total the inititating improviser will take the place of the other improviser, who will now approach someone else in the circle as a new character and initate a new 3-4 lines scene.</li>",
+        "8": "\t<li>Go until everyone has had a turn to both initiate and respond to an initiation.</li>",
+        "9": "</ul><hr>"
       },
       "Example": {
         "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Different declared characters but matching anyway</li>",
+        "3": "\t<ul>",
+        "4": "\t\t<li>Improviser 1: *approaching hunched over, walking with a cane, speaking with an eldery voice* \"When I was your age little timmy, baseballs only costs a nickle!\"</li>",
+        "5": "\t\t<li>Improviser 2: *taking on the same elderly physicality and voice* \"Well gee wilikers Mr. Griffordson I can't get a toothpick for that price these days.\"</li>",
+        "6": "\t\t<li>Improviser 1: \"That's because the commies!\"</li>",
+        "7": "\t</ul>",
+        "8": "\t<li>Both characters match the character and perspective</li>",
+        "9": "\t<ul>",
+        "10": "\t\t<li>Improviser 1: *approaching as a twitchy little gremlin* \"Ehhhh! Grimble, I'm hungry for human flesh!\"</li>",
+        "11": "\t\t<li>Improviser 2: *taking on the same physicality* \"Yes! I want a skin muffin and a venti blood frappe!\"</li>",
+        "12": "\t\t<li>Improviser 1: \"Ooooh splurging today!!!\"</li>",
+        "13": "\t</ul>",
+        "14": "</ul><hr>"
       },
       "Purpose": {
         "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
-        "3": "</ul><hr>"
-      },
-      "Tips": {
-        "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>You get to play a variety of characters in a short amount of time.</li>",
+        "3": "\t<li>You get to practice changing yourself based on someone else's actions/initation.</li>",
+        "4": "</ul><hr>"
       },
       "Sources": {
         "1": "<ul>",
-        "2": "\t<li>Sources text</li>",
+        "2": "\t<li>How to be the Greatest Improviser on Earth by Will Hines - p. 41</li>",
         "3": "</ul><hr>"
       }
     }
