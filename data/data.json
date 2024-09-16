@@ -560,7 +560,7 @@
         "3": "\t<li>A suggestion can be gotten at the top or the set can begin completely organically.</li>",
         "4": "\t<li>If a suggestion is gotten at the top, that will inspire the initiation for the first scene.</li>",
         "5": "\t<li>Each scene will be initiated based off something organically pulled from the improvisers mind, or from an element from the scene the preceeded it.</li>",
-        "6": "\t<li>Imrpovisers can use any support moves or edits available to them to play the scenes before moving on to the next.</li>",
+        "6": "\t<li>Improvisers can use any support moves or edits available to them to play the scenes before moving on to the next.</li>",
         "7": "\t<li>The scenes do not have to have any through line or connections.</li>",
         "8": "</ul><hr>"
       },
@@ -724,27 +724,22 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
-      },
-      "Example": {
-        "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>One improviser initiates a scene with some sort of phyical activity.</li>",
+        "3": "\t<li>The activity should be something that can be continued throughout the scene like washing dishes, folding laundry, decorating for a party, etc...</li>",
+        "4": "\t<li>A second improviser should join the scene and the activity.</li>",
+        "5": "\t<li>They must then perform the scene without speaking about the activity at hand.</li>",
+        "6": "</ul><hr>"
       },
       "Purpose": {
         "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
-        "3": "</ul><hr>"
-      },
-      "Tips": {
-        "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Usually you don't talk about doing dishes while you're doing dishes, or most other mundane activities.</li>",
+        "3": "\t<li>It's more realistic this way.</li>",
+        "4": "\t<li>This exercise will also help you build your environment and keep the scene dynamic without getting stuck talking about something uninteresting.</li>",
+        "5": "</ul><hr>"
       },
       "Sources": {
         "1": "<ul>",
-        "2": "\t<li>Sources text</li>",
+        "2": "\t<li>The Upright Citizens Brigade Comedy Improv Manual (second edition) by Matt Besser, Ian Roberts, and Matt Walsh - p. 36</li>",
         "3": "</ul><hr>"
       }
     }
