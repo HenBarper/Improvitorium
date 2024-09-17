@@ -22,6 +22,7 @@
 # from builder_torture import build_torture_page
 # from builder_warm_ups import build_warm_ups_page
 
+from json_all_games import build_all_games_page
 from json_builder_audience_participation import build_audience_participation_page_json
 from json_builder_exercise import build_exercise_page_json
 from json_builder_character import build_character_page_json
@@ -46,6 +47,7 @@ from json_builder_song_formats import build_song_formats_page_json
 from json_builder_torture import build_torture_json
 from json_builder_warm_ups import build_warm_ups_json
 
+build_all_games_page()
 # build_audience_participation_page()
 build_audience_participation_page_json()
 # build_character_page()
