@@ -337,7 +337,7 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li><li>This is a game for 4+ improvisers where each walk-on will have to try and guess the suggestions and then convey them to the next person using only miming and gibberish.</li>",
+        "2": "\t<li>This is a game for 4+ improvisers where each walk-on will have to try and guess the suggestions and then convey them to the next person using only miming and gibberish.</li>",
         "3": "\t<li>All but one improviser leaves the room and the remaining improviser and/or host get three suggestions.</li>",
         "4": "\t<li>The suggestions are for an occupation, weapon, and location.</li>",
         "5": "\t<li>The scene starts when the starting improviser mimes killing an improviser from the backline with the murder weapon. The murdered improviser should lay on the floor and become a dead body.</li>",
@@ -354,7 +354,7 @@
       "Tips": {
         "1": "<ul>",
         "2": "\t<li>Use the acronym O.W.L. to remember the order of the suggestions being acted out.</li>",
-        "3": "\t<li>Really play up the gibberish and be expressive. The scene gets awkward if the improviser are too quiet or not animated enough.</li>",
+        "3": "\t<li>Really play up the gibberish and be expressive. The scene gets awkward if the improvisers are too quiet or not animated enough.</li>",
         "4": "\t<li>The guessers shouldn't make the miming improviser spend too much time on each suggestion, as soon as you think you have an idea of what they might be doing give them the go-ahead to switch to the next suggestion. We don't want the scene to go on too long and it's funnier if the suggestions get lost along the way than if they stay the same the whole time.</li>",
         "5": "</ul><hr>"
       },
@@ -753,28 +753,35 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
-      },
-      "Example": {
-        "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>One improviser is selected to be the taxi driver and guesser. They leave the room while the host or participating improvisers get suggestions.</li>",
+        "3": "\t<li>3-6 other improvisers will be the cab riders. They will get suggestions for distinct characters to play.</li>",
+        "4": "\t<li>They can be cartoon characters, celebrities, innanimate objects, animals or anything else that can be played for comedic effect.</li>",
+        "5": "\t<li>Once all the suggestions are gotten, we can call back in the driver to start the scene.</li>",
+        "6": "\t<li>They'll mime starting off their day and soon pick up the first rider.</li>",
+        "7": "\t<li>The rider will give hints to the driver based on their behavior and answers to the cab driver's questions.</li>",
+        "8": "\t<li>Once the driver has an idea who they think the person might be they can begin guessing.</li>",
+        "9": "\t<li>Once they guess correctly they can drop off the rider and pick up the next.</li>",
+        "10": "</ul><hr>"
       },
       "Purpose": {
         "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>This is a fun game to play with improvisers of all skill levels.</li>",
+        "3": "\t<li>The driver must listen and pay close attention to the character to try and guess who they are.</li>",
+        "4": "\t<li>New improvisers are forced to step outside themself and play a character.</li>",
+        "5": "</ul><hr>"
       },
       "Tips": {
         "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
-      },
-      "Sources": {
-        "1": "<ul>",
-        "2": "\t<li>Sources text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>The rider's hints should start out relatively vague and get more obvious over time so as not to give it away too quickly, or spend too much time on one character.</li>",
+        "3": "\t<li>If it seems like the driver really can't get it feel free after some time to just give it up with a rhyme - \"You really don't know me? It rhymes with picky pouse!\"</li>",
+        "4": "\t<li>If you're playing with only 2-3 passengers, or a particularly good guesser, feel free to give them a secondary characteristic after their character like...</li>",
+        "5": "\t<ul>",
+        "6": "\t\t<li>Spongebob Sqaurepants selling tupperware</li>",
+        "7": "\t\t<li>A blender whose dog ran away</li>",
+        "8": "\t\t<li>A thunderstorm with a crush on John Cena</li>",
+        "9": "\t\t<li>A praying mantis who is obsessed with reality tv</li>",
+        "10": "\t</ul>",
+        "11": "</ul><hr>"
       }
     }
   },
