@@ -184,28 +184,34 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Two improvisers take the stage and a basic suggestion is given.</li>",
+        "3": "\t<li>They perform a scene where each sentence must begin with a word that starts with the next consecutive letter of the alphabet.</li>",
+        "4": "\t<li>They can go from A to Z and end the scene there or restart at A and continue until a more traditional edit is made.</li>",
+        "5": "</ul><hr>"
       },
       "Example": {
         "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Suggestion: Car alarm</li>",
+        "3": "\t<li>Improviser 1: Alright can you turn that off?</li>",
+        "4": "\t<li>Improviser 2: Boy it sure is loud! What did you say?</li>",
+        "5": "\t<li>Improviser 1: Can you turn off the alarm please?</li>",
+        "6": "\t<li>Improviser 2: Didn't hear you. The alarm is too loud.</li>",
+        "7": "\t<li>Improviser 1: Enough! Please turn it off.</li>",
+        "8": "\t<li>Improviser 2: Friend! I can't understand you!</li>",
+        "9": "\t<li>etc...</li>",
+        "10": "</ul><hr>"
       },
       "Purpose": {
         "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
+        "2": "\t<li>This excercise privides a fun challenge for improvisers and forces them to listen and think quickly.</li>",
         "3": "</ul><hr>"
       },
-      "Tips": {
+      "Variations": {
         "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
-      },
-      "Sources": {
-        "1": "<ul>",
-        "2": "\t<li>Sources text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>You could play with more than two players.</li>",
+        "3": "\t<li>You could have the audience choose the starting letter.</li>",
+        "4": "\t<li>You could play it as an elimination game where people get out if they mess up or take too long to respond.</li>",
+        "5": "</ul><hr>"
       }
     }
   },
@@ -619,7 +625,7 @@
     "id": "sentenceGame",
     "tagPages": "justification.html,listening.html,performance.html,scene.html,sentences.html",
     "tags": "Justification,Listening,Performance,Scene Work,Sentences",
-    "primary_page": "sentence.html#sentenceGame",
+    "primary_page": "sentences.html#sentenceGame",
     "info": {
       "Description": {
         "1": "<ul>",

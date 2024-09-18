@@ -20,9 +20,7 @@ def build_all_games_page(data_file='../data/data.json', output_file='../pages/al
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   <link rel="stylesheet" href="../styles/style.css">
 </head>
-<header>
-  <h5 class="mx-5 py-2"><a href="../index.html">Home</a></h5>
-</header>
+<header id="top">\n\t<div class="d-flex flex-wrap justify-content-around">\n\t\t<a class="mx-5 py-2" href="../index.html">Home</a><a class="mx-5 py-2" href="categories.html">Games Exercises and Formats</a>\n\t</div>\n</header>
 <body>
   <h1 class="text-center" id="top">All Games & Exercises</h1>
   <div class="mt-5 text-center">
@@ -44,7 +42,7 @@ def build_all_games_page(data_file='../data/data.json', output_file='../pages/al
         if 'title' in item and isinstance(item['title'], str) and len(item['title']) > 0:
             first_letter = item['title'][0].lower()
             if first_letter in alphabet_sections:
-                alphabet_sections[first_letter].append(f'<li><h5><a href="exercises.html#{item["id"]}">{item["title"]}</a></h5></li>')
+                alphabet_sections[first_letter].append(f'<li><h5><a href="{item["primary_page"]}">{item["title"]}</a></h5></li>')
 
     # Populate the HTML with the categorized games
     for letter in string.ascii_lowercase:
@@ -57,12 +55,7 @@ def build_all_games_page(data_file='../data/data.json', output_file='../pages/al
     html_text += """
     <h5><a href="#top">Back to Top</a></h5>
   </div>
-  <footer>
-    <div class="d-flex flex-wrap justify-content-around">
-      <h5 class="mx-5 py-2"><a href="../index.html">Home</a></h5>
-      <h5 class="mx-5 py-2"><a href="categories.html">Games, Exercises, and Formats</a></h5>
-    </div>
-  </footer>
+  <footer>\n\t<div class="d-flex flex-wrap justify-content-around"><a class="mx-5 py-2" href="../index.html">Home</a>\n\t\t<a class="mx-5 py-2" href="categories.html">Games Exercises and Formats</a></div>\n</footer>\
 </body>
 </html>
 """
