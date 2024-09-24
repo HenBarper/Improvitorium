@@ -556,28 +556,53 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Players form a circle.</li>",
+        "3": "\t<li>Players think of a random word and raise their hand.</li>",
+        "4": "\t<li>The first two players to do so will count down from three and say their word at the same time.</li>",
+        "5": "\t<li>Everyone now tries to think of a word the connects the two previous words.</li>",
+        "6": "\t<li>You can't repeat a word that's already been used in a round.</li>",
+        "7": "\t<li>The first two to think of a connecting word raise their hand then count down from three and say their words at the same time.</li>",
+        "8": "\t<li>The goal is for the two players to say the same word at the same time and the round ends when that happens.</li>",
+        "9": "</ul><hr>"
       },
       "Example": {
         "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Two players: 3... 2... 1... </li>",
+        "3": "\t<li>Any player: Car! (at the same time) Any other player: Peanut!</li>",
+        "4": "\t<li><em>A leading player, teacher, or anyone can repeat the two words for anyone who didn't catch them.</em></li>",
+        "5": "\t<li>Leader: Car and Peanut!</li>",
+        "6": "\t<li>Two players: 3... 2... 1... </li>",
+        "7": "\t<li>Any player: Shell! (at the same time) Any other player: Inside!</li>",
+        "8": "\t<li>Leader: Shell and Inside!</li>",
+        "9": "\t<li>Two players: 3... 2... 1... </li>",
+        "10": "\t<li>Any player: Clam! (at the same time) Any other player: Crab!</li>",
+        "11": "\t<li>Leader: Clam and Crab!</li>",
+        "12": "\t<li>Two players: 3... 2... 1... </li>",
+        "13": "\t<li>Any player: Seafood! (at the same time) Any other player: Seafood!</li>",
+        "14": "\t<li>Celebrate accordingly as decided by your group!</li>",
+        "15": "</ul><hr>"
       },
       "Purpose": {
         "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
+        "2": "\t<li>Played with speed this can be a good get out of your head game.</li>",
+        "2": "\t<li>This game helps establish a group mind, helping improvisers see how each other thinks and makes connections.</li>",
+        "2": "\t<li>Purpose</li>",
+        "2": "\t<li>Purpose</li>",
         "3": "</ul><hr>"
       },
       "Tips": {
         "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Play with energy.</li>",
+        "3": "\t<li>Try and keep the speed up between guesses.</li>",
+        "4": "\t<li>Don't be precious trying to think of the perfect connection, just go for it.</li>",
+        "5": "</ul><hr>"
       },
-      "Sources": {
+      "Variations": {
         "1": "<ul>",
-        "2": "\t<li>Sources text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>You can play it around the circle rather than by raising your hand to volunteer.</li>",
+        "3": "\t<li>You can play speed mode where you don't take any time between guessers and imediate start counting down from three after each set of guesses.</li>",
+        "4": "\t<li>You playing in pairs or a larger group.</li>",
+        "6": "</ul><hr>"
       }
     }
   },
