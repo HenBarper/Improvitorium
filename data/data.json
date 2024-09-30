@@ -832,7 +832,7 @@
       "Tips": {
         "1": "<ul>",
         "2": "\t<li>The rider's hints should start out relatively vague and get more obvious over time so as not to give it away too quickly, or spend too much time on one character.</li>",
-        "3": "\t<li>If it seems like the driver really can't get it feel free after some time to just give it up with a rhyme - \"You really don't know me? It rhymes with picky pouse!\"</li>",
+        "3": "\t<li>If it seems like the driver really can't get it, feel free, after some time, to just give it up with a rhyme - \"You really don't know me? It rhymes with picky pouse!\"</li>",
         "4": "\t<li>If you're playing with only 2-3 passengers, or a particularly good guesser, feel free to give them a secondary characteristic after their character like...</li>",
         "5": "\t<ul>",
         "6": "\t\t<li>Spongebob Sqaurepants selling tupperware</li>",
@@ -853,28 +853,34 @@
     "info": {
       "Description": {
         "1": "<ul>",
-        "2": "\t<li>Description text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>One player is the narrator of the story and sits or stands on stage miming like they are writing a story on a typewriter.</li>",
+        "3": "\t<li>The narrator speaks aloud what he is \"writing\".</li>",
+        "4": "\t<li>Improvisers will enter the scene to play the characters the narrator mentions and begin playing the scene normally.</li>",
+        "5": "\t<li>The narrator can give and take focus at any time.</li>",
+        "6": "</ul><hr>"
       },
       "Example": {
         "1": "<ul>",
-        "2": "\t<li>Example text</li>",
-        "3": "</ul><hr>"
-      },
-      "Purpose": {
-        "1": "<ul>",
-        "2": "\t<li>Purpose text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Narrator: The mystery of the missing moose. Chapter one, the forest sleeps. A cool chill hung in the early morning air as Park Ranger Mitchel and his young apprentice Carl began their morning forest inspection hike.</li>",
+        "3": "\t<li>Two improvisers step out miming preparing for their walk.</li>",
+        "4": "\t<li>Carl: It's freezing out here Mr. Mitchel. Maybe we go back and sit around the fire until it warms up a bit.</li>",
+        "5": "\t<li>Ranger Mitchel: I'm sure everything's fine Carl. But it's our responsibility to make sure all the forest creatures are safe from anyone who would do them harm.</li>",
+        "6": "\t<li>Narrator: But everything wasn't fine in the forest that day, and it wouldn't be long before the ranger noticed something out of the ordinary.</li>",
+        "7": "\t<li>Ranger Mitchel: Oh my god. Freeze boy.</li>",
+        "8": "\t<li>Carl: Why? What is it Mr. Mitchel?</li>",
+        "9": "\t<li>Ranger Mitchel: You see that? It's a moose egg. Not usualy for them to be left alone like that. Momma's gotta be nearby.</li>",
+        "10": "\t<li>Narrator: A large, brown, and furry egg lay nestled in a bed of pine needles surrounded by trees in every direction. A trail of crimson stained staining the forest floor lay before them leading into the thickest brush of the woods.</li>",
+        "11": "\t<li>Carl: Wait... Mr. Mitchel. Is that blood?</li>",
+        "12": "</ul><hr>"
       },
       "Tips": {
         "1": "<ul>",
-        "2": "\t<li>Tips text</li>",
-        "3": "</ul><hr>"
-      },
-      "Sources": {
-        "1": "<ul>",
-        "2": "\t<li>Sources text</li>",
-        "3": "</ul><hr>"
+        "2": "\t<li>Be sure improvisers are using give and take to share the spotlight. The bulk of the responsibility shouldn't fall on the narrator or the actors.</li>",
+        "3": "\t<li>The narrator can take advantage of the format by establishing tone and using scene painting.</li>",
+        "4": "\t<li>Yes and the narrators decisions including the physical reality of the space.</li>",
+        "5": "\t<li>The narrator can always jump forward in time, to a new location or rip up a page and start over. They don't have to write the story in sequential order.</li>",
+        "6": "\t<li>Focus on telling a good story rather than doing bits. Bits can have their place though.</li>",
+        "7": "</ul><hr>"
       }
     }
   }
