@@ -548,6 +548,41 @@
     }
   },
   {
+    "title": "Justification Realtor",
+    "id": "justificationRealtor",
+    "tagPages": "exercises.html,justification.html,listening.html,scene.html,warm_ups.html",
+    "tags": "Exercise,Justification,Listening,Scenework,Warm Up",
+    "primary_page": "justification.html#justificationRealtor",
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>One player starts a scene as a realtor preparing an open house.</li>",
+        "3": "\t<li>Shortly after a few guests(usually 2-3) knock on the door and are welcomed to view the house.</li>",
+        "4": "\t<li>The realtor shows the guests around and one by one the guests ask questions about the absurdities of the house.</li>",
+        "5": "\t<li>These questions involve a bit of scene painting of absurd things we don't already know about the house.</li>",
+        "6": "\t<li>It is the realtors job to logically justify these absurd features of the house.</li>",
+        "7": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Guest: Excuse me, could you tell me a bit about this rusty blood stained trap door here in the floor?</li>",
+        "3": "\t<li>Realtor: Ah certainly! One of this home's primary security features. There is a ferocious blood thirsty beast underneath that door. If ever you're in danger from a home intruder, you need only pull that lever.</li>",
+        "4": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>This exercise allows improvisers to practice:</li>",
+        "3": "\t<ul>",
+        "4": "\t\t<li>playing a grounded character</li>",
+        "5": "\t\t<li>scene painting</li>",
+        "6": "\t\t<li>coming up with inconsequential absurd ideas</li>",
+        "7": "\t\t<li>justifying</li>",
+        "8": "\t</ul>",
+        "9": "</ul><hr>"
+      }
+    }
+  },
+  {
     "title": "Mind Meld",
     "id": "mindMeld",
     "tagPages": "exercises.html,listening.html,party.html,warm_ups.html",
@@ -585,10 +620,8 @@
       "Purpose": {
         "1": "<ul>",
         "2": "\t<li>Played with speed this can be a good get out of your head game.</li>",
-        "2": "\t<li>This game helps establish a group mind, helping improvisers see how each other thinks and makes connections.</li>",
-        "2": "\t<li>Purpose</li>",
-        "2": "\t<li>Purpose</li>",
-        "3": "</ul><hr>"
+        "3": "\t<li>This game helps establish a group mind, helping improvisers see how each other thinks and makes connections.</li>",
+        "4": "</ul><hr>"
       },
       "Tips": {
         "1": "<ul>",
