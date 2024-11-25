@@ -80,6 +80,33 @@ li {
 }
 
 /* ---------- CUSTOM CLASSES ---------- */
+.category-button {
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+
+  width: 185px;
+  height: 65px;
+  border-radius: 15px;
+  margin-top: 5px;
+  color: var(--text_dark, darkblue);
+  background-color: var(--primary, teal);
+  transition: all 0.1s ease-in-out;
+}
+.category-button:hover {
+  transform: scale(1.1);
+}
+.category-button:visited, .category-button:visited:hover {
+  color: var(--text_dark, darkblue);
+}
+.category-button:focus {
+  outline: 2px solid var(--accent_light);
+  outline-offset: 2px;
+}
+
 .white {
   color: white;
 }
