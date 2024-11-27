@@ -27,7 +27,7 @@ def build_performance_page_json():
             linkText += f'\t\t\t<li>\n\t\t\t\t<a href="#{item["id"]}">{item["title"]}</a>\n\t\t\t</li>\n'
             tags_html = ''
             for tagPage, tag in zip(item['tagPages'].split(","), item['tags'].split(",")):
-                tags_html += f'<a href="{tagPage.strip()}">{tag.strip()}</a> - '
+                tags_html += f'<a class="tag-link" href="{tagPage.strip()}">{tag.strip()}</a> - '
             fullText += f'\t<!-- ---------- {item["title"].upper()} ---------- -->\n'
             fullText += f'\t<div class="game-box p-2" id="{item["id"]}">\n'
             fullText += f'\t\t<h2>{item["title"]}</h2>\n'
