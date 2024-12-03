@@ -779,6 +779,37 @@
     }
   },
   {
+    "title": "Ping Pong Ballad",
+    "id": "pingPongBallad",
+    "tagPages": "audience_participation.html,interview.html,listening.html,musical.html.performance.html",
+    "tags": "Audience Participation,Interview,Listening,Musical,Performance",
+    "primary_page": "musical.html#pingPongBallad",
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>This is a game for two improvisers.</li>",
+        "3": "\t<li>A volunteer from the audience is invited to sit center stage.</li>",
+        "4": "\t<li>The two improvisers conduct a brief interview of the audience member. Get their name, family, pets, occupation, hobbies, etc...</li>",
+        "5": "\t<li>Instruct the audience member that whoever they are looking at during the song has to be singing, they can switch back and forth between who they are looking at as much as they want, and to use and abuse this power.</li>",
+        "6": "\t<li>The music comes in and who ever is being looked at must serenade the audience member.</li>",
+        "7": "\t<li>The improviers will need to listen intently while the other is singing so they can continue any lines are are interupted with a switch.</li>",
+        "8": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>If you get switched to mid word or phrase, do your best to finish that word or phrase.</li>",
+        "3": "\t<li>Use the persons name often. It's a good reset or start of a line or verse.</li>",
+        "4": "\t<li>Better yet if you can set up rhymes with their name.</li>",
+        "5": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li><a href=\"https://improvencyclopedia.org/games/Ping_Pong_Ballad.html\">Improv Encyclopedia</a></li>",
+        "3": "</ul><hr>"
+      }
+    }
+  },
+  {
     "title": "Sentence Game",
     "id": "sentenceGame",
     "tagPages": "justification.html,listening.html,performance.html,scene.html,sentences.html",
