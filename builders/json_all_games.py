@@ -24,25 +24,36 @@ def build_all_games_page(data_file='../data/data.json', output_file='../pages/al
 <body>
   <h1 class="text-center" id="top">All Games & Exercises</h1>
   <div class="mt-5 text-center">
-    <a href="#a">A</a> <a href="#b">B</a> <a href="#c">C</a> <a href="#d">D</a> <a href="#e">E</a> <a href="#f">F</a> 
-    <a href="#g">G</a> <a href="#h">H</a> <a href="#i">I</a> <a href="#j">J</a> <a href="#k">K</a> <a href="#l">L</a> 
-    <a href="#m">M</a> <a href="#n">N</a> <a href="#o">O</a> <a href="#p">P</a> <a href="#q">Q</a> <a href="#r">R</a> 
-    <a href="#s">S</a> <a href="#t">T</a> <a href="#u">U</a> <a href="#v">V</a> <a href="#w">W</a> <a href="#x">X</a> 
-    <a href="#y">Y</a> <a href="#z">Z</a>
+    <a href="#numbers">#</a> 
+""" + " ".join([f'<a href="#{letter}">{letter.upper()}</a>' for letter in string.ascii_lowercase]) + """
   </div>
   <div class="m-5">
 """
 
-    # Create placeholders for each alphabet letter section
+    # Create placeholders for each alphabet letter section and numbers
     alphabet_sections = {letter: [] for letter in string.ascii_lowercase}
+    number_section = []
 
-    # Sort and categorize the games by their starting letter
+    # Sort and categorize the games by their starting character
     for item in data:
         # Ensure 'title' exists, is a string, and is non-empty
         if 'title' in item and isinstance(item['title'], str) and len(item['title']) > 0:
-            first_letter = item['title'][0].lower()
-            if first_letter in alphabet_sections:
-                alphabet_sections[first_letter].append(f'<li><h5><a href="{item["primary_page"]}">{item["title"]}</a></h5></li>')
+            first_char = item['title'][0]
+            if first_char.isdigit():
+                number_section.append(f'<li><h5><a href="{item["primary_page"]}">{item["title"]}</a></h5></li>')
+            elif first_char.lower() in alphabet_sections:
+                alphabet_sections[first_char.lower()].append(f'<li><h5><a href="{item["primary_page"]}">{item["title"]}</a></h5></li>')
+
+    # Add the numbers section if it contains items
+    if number_section:
+        html_text += """
+    <h3 id="numbers">Numbers</h3>
+    <div>
+      <ul>
+""" + "\n".join(number_section) + """
+      </ul>
+    </div>
+"""
 
     # Populate the HTML with the categorized games
     for letter in string.ascii_lowercase:

@@ -270,6 +270,120 @@
     }
   },
   {
+    "title": "Beastie Boys",
+    "id": "beastieBoys",
+    "tagPages": "energy.html,exercises.html,listening.html,musical.html,party.html,performance.html,warm_ups.html",
+    "tags": "Energy,Exercise,Listening,Musical,Party,Performance,Warm Up",
+    "primary_page": "musical.html#beastieBoys",
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Two teams of 3-4 players will face off in a pseudo rap battle.</li>",
+        "3": "\t<li>Each team has a leader who sets up rhymes and supporters who try to complete the rhyme in time with a beat.</li>",
+        "4": "\t<li>Instruct the audience to make a buzzer sound if the team fails to complete the rhyme in a way that makes sense or is too off beat.</li>",
+        "5": "\t<li>To start each round, the host will get a one word suggestion.</li>",
+        "6": "\t<li>The two leaders will go back and fourth trying to set up their team to complete their rhyme with the suggested word.</li>",
+        "7": "\t<li>If the support players fail to complete the rhyme appropriately the leader is eliminated and rotates to the back to become a supporter and a new leader steps forward, which starts a new round.</li>",
+        "8": "\t<li>The team who won the previous round will go first in the next round.</li>",
+        "9": "\t<li>A team loses when all their members have been eliminated as the leader.</li>",
+        "10": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Suggestion: Day</li>",
+        "3": "\t<li>Team 1 Leader: Little kids at recess, they love to...</li>",
+        "4": "\t<li>Team 1 Support: PLAY!</li>",
+        "5": "\t<li>Team 2 Leader: I sure don't curse, those aren't words that I...</li>",
+        "6": "\t<li>Team 2 Support: SAY!</li>",
+        "7": "\t<li>Team 1 Leader: I don't know where I am, I don't know which...</li>",
+        "8": "\t<li>Team 1 Support: ... uhhh... Oh! WAY!(way too late off beat)</li>",
+        "9": "\t<li>Audience: *buzzer sound*</li>",
+        "10": "\t<li>Team 1 rotates and a new round beings.</li>",
+        "14": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>This game is great for practicing rhyming, getting in a rhyming mindset, and setting up others to finish rhymes.</li>",
+        "3": "\t<li>It's a great warm-up or show opener.</li>",
+        "4": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Really bring that energy and spirit of competion to this game. Feel free to dis the other team or act like their rhymes are whack.</li>",
+        "3": "\t<li>The host should ask the audience for one or two syllable words unless the performers are very skilled at rhyming.</li>",
+        "4": "\t<li>If it is helpful a leader can do an act out as part or their set up.</li>",
+        "5": "\t<li>The beat can be played by a percussion, a looping backing track, or by having the performers snap, clap, or pat. But a track or percussionist is preferred for a live performance.</li>",
+        "6": "</ul><hr>"
+      },
+      "Sources": {
+        "1": "<ul>",
+        "2": "\t<li><a href=\"https://www.openyourmouthandsing.co.uk/beastie-boys.html\">openyourmouthandsing.co.uk</a></li>",
+        "3": "</ul><hr>"
+      },
+      "See Also": {
+        "1": "<ul>",
+        "2": "\t<li><a href=\"musical.html#beastieRap\">Beastie Rap</a></li>",
+        "3": "</ul><hr>"
+      }
+    }
+  },
+  {
+    "title": "Beastie Rap",
+    "id": "beastieRap",
+    "tagPages": "energy.html,exercises.html,listening.html,musical.html,party.html,warm_ups.html",
+    "tags": "Energy,Exercise,Listening,Musical,Party,Warm Up",
+    "primary_page": "musical.html#beastieBoys",
+    "info": {
+      "Description": {
+        "1": "<ul>",
+        "2": "\t<li>Improvisers circle up and snap, clap, or pat a beat.</li>",
+        "3": "\t<li>The game starts with a chant in rhythm: Dada da da dada da!</li>",
+        "4": "\t<li>Repeat the chant 2-4 times at the start of the game.</li>",
+        "5": "\t<li>The first improviser will rap a line ending with an easily rhymable word.</li>",
+        "6": "\t<li>Repeat the chant once after each line.</li>",
+        "7": "\t<li>Going around the circle, the next 3 improvisers will rap a line that ends by rhyming with the first improviser.</li>",
+        "8": "\t<li>Other members in the circle will listen closely and try to predict and say the rhyming word at the same time.</li>",
+        "9": "\t<li>After the initial line and the three rhyming lines, the chant is repeated 2-4 and the next person in the circle raps a new line with a new easily rhymable word and the pattern repeats.</li>",
+        "10": "</ul><hr>"
+      },
+      "Example": {
+        "1": "<ul>",
+        "2": "\t<li>Ensemble: Dada da da dada da!</li>",
+        "3": "\t<li>Ensemble: Dada da da dada da!</li>",
+        "4": "\t<li>Player 1: I just put on my brand new SHOES!</li>",
+        "5": "\t<li>Ensemble: Dada da da dada da!</li>",
+        "6": "\t<li>Player 2: Sherlock holmes always looking for-</li>",
+        "7": "\t<li>Ensemble: CLUES!</li>",
+        "8": "\t<li>Ensemble: Dada da da dada da!</li>",
+        "9": "\t<li>Player 3: Wanna be a member? Better pay your-</li>",
+        "10": "\t<li>Ensemble: DUES!</li>",
+        "11": "\t<li>Ensemble: Dada da da dada da!</li>",
+        "12": "\t<li>Player 4: My main man Scott on the ones and-</li>",
+        "13": "\t<li>Ensemble: TWOS!</li>",
+        "14": "\t<li>Ensemble: Dada da da dada da!</li>",
+        "15": "\t<li>Ensemble: Dada da da dada da!</li>",
+        "16": "\t<li>Then a new round starts with the next member in the circle.</li>",
+        "17": "</ul><hr>"
+      },
+      "Purpose": {
+        "1": "<ul>",
+        "2": "\t<li>This is a great group warm up and useful for practicing rhyming and bringing high energy.</li>",
+        "3": "</ul><hr>"
+      },
+      "Tips": {
+        "1": "<ul>",
+        "2": "\t<li>Really bring that Beastie Boys vibe and energy.</li>",
+        "3": "\t<li>As soon as you hear the rhyme word quickly think of as many rhyming words as you can to have ready to go.</li>",
+        "4": "</ul><hr>"
+      },
+      "See Also": {
+        "1": "<ul>",
+        "2": "\t<li><a href=\"musical.html#beastieBoys\">Beastie Boys</a></li>",
+        "3": "</ul><hr>"
+      }
+    }
+  },
+  {
     "title": "Big Booty",
     "id": "bigBooty",
     "tagPages": "exercises.html,listening.html,party.html,warm_ups.html",
