@@ -38,6 +38,7 @@ from json_builder_long_forms import build_long_forms_page_json
 from json_builder_musical import build_musical_page_json
 from json_builder_narrative import build_narrative_page_json
 from json_builder_object_work import build_object_work_page_json
+from json_builder_openings import build_openings_page_json
 from json_builder_party import build_party_page_json
 from json_builder_performance import build_performance_page_json
 from json_builder_pun import build_pun_page_json
@@ -78,6 +79,7 @@ build_musical_page_json()
 build_narrative_page_json()
 # build_object_work_page()
 build_object_work_page_json()
+build_openings_page_json()
 # build_party_page()
 build_party_page_json()
 # build_performance_page()
